@@ -1,47 +1,58 @@
-# Khadas documentation
-<!-- Markdown snippet -->
+## ADLINK IPi documentation
 
-[![Build Status](https://travis-ci.org/khadas/khadas_docs.svg?branch=master)](https://travis-ci.org/khadas/khadas_docs)
 
-## Getting started
+### Getting started
 
-Install Git:
-```
-$ sudo apt-get install git-core
-```
 
-Install nvm:
-```
-$ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
-```
 
-Reload environment profile:
-```
-$ source ~/.bashrc
-```
+1. Install dependencies:
 
-install node.js:
-```
-$ nvm install v10.20
-```
 
-Install dependencies:
-
-``` bash
-$ git clone https://github.com/khadas/khadas_docs.git
-$ cd khadas_docs
+```
+$ git clone https://github.com/ADLINK-EPM/ipi-doc.git
+$ cd ipi-doc-source
 $ npm install
 $ npm install hexo-cli -g
+
 ```
 
-Generate:
+2. Generate HTML website:
 
-``` bash
-$ hexo generate
+```
+$ hexo clean
+$ hexo g
 ```
 
-Run server:
+3. Run server on local side:
 
-``` bash
-$ hexo server
 ```
+$ hexo s
+```
+
+## How to add/modify the source of ipi-doc
+
+
+### Basic rules
+
+* your markdown and hexo source must build
+* your image format shoul be .png
+* please use "Camel case" for your folder or file name. 
+  <br>for example,
+      **H**ow**T**o**U**se**I**nstall**U**buntu.md
+* please make sure that website can work at your local side
+
+
+
+### How to work
+
+* the recommended method is to fork on github, and then send pull requests to the main proejct. 
+* we will get the notification to merge your changes and go public your html files
+
+
+
+
+
+
+
+
+
