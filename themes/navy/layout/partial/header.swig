@@ -5,10 +5,11 @@
     </h1>
     <nav id="main-nav">
       {{ header_menu('main-nav') }}
+	  <a href="https://www.ipi.wiki" class="main-nav-link" target="_self"> Home</a>
     </nav>
 	<nav><a href="https://github.com/adlink" class="main-nav-link"><i class="fa fa-github-alt"></i> GitHub</a></nav>
 	<nav><a href="https://www.ipi.wiki/forum" class="main-nav-link" target="_self"> Community </a></nav>
-	<nav><a href="https://www.ipi.wiki" class="main-nav-link" target="_self"> Home</a></nav>
+	
 
 
     <a id="mobile-nav-toggle">
