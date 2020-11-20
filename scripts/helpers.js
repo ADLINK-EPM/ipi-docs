@@ -160,11 +160,11 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
 	if(index !== -1 )
 	{
 		
-		title_temp += '<strong class="' + className + '-title">' + '<details open>' + '<summary>' + self.__(prefix + title) + '</summary>';
+		title_temp += '<strong class="' + className + '-title">' + '<details open >' + '<summary>' + self.__(prefix + title) + '</summary>';
 	}
 	else
 	{
-		title_temp += '<strong class="' + className + '-title">' + '<details >' + '<summary>' + self.__(prefix + title) + '</summary>';
+		title_temp += '<strong class="' + className + '-title">' + '<details open>' + '<summary>' + self.__(prefix + title) + '</summary>';
 	}
 	
     title_temp += text_temp + '</details></strong>';
