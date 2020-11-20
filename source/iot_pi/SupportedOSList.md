@@ -12,5 +12,5 @@ Supports a variety of OS options to help customers get to market quickly and eff
 
 
 
-**Note: **Please go to [this page](HowToFlashImage.html) to guide you how to flash Debian/Ubuntu/Yocto/Android image to your SD card.
+**Note: **Please go to [this page](https://docs.ipi.wiki/smarc-ipi/ipi-smarc-px30/HowToFlashImage.html) to guide you how to flash Debian/Ubuntu/Yocto/Android image to your SD card.
 
