@@ -10,12 +10,13 @@ The procedure describes how to flash an **Ubuntu/Debian/Yocto** image including 
 
 <br>
 
-## To Flash the Ubuntu/Debian Image
+## Flash a Ubuntu/Debian Image
 
 ### Prerequisites
 
 - Download the prebuilt bootable Ubuntu image to the working directory on your development host.
 - In Windows environments, please download [rufus](https://rufus.ie/) to flash the image to the SD Card.
+- In a Linux environment use dd 
 
 ​       **Note:** All files will be erased on the SD Card. The size should be preferable 16 GB or larger. For better performance an class 10 SD card or higher is advised.
 
@@ -40,13 +41,15 @@ The procedure describes how to flash an **Ubuntu/Debian/Yocto** image including 
 
 1. Copy the prebuilt bootable Ubuntu image to the working directory on your development host. Insert an empty SD Card into the development host and enter the following command to copy the .img to the SD Card.
    
+   **Warning**: Make sure you first properly identify the SD Card device name as for example /dev/sdb or /dev/sdc. For example insert the SD Card and than check device name with dmesg. Data loss may result if written to the wrong device or in the worst case you kill your hosts OS.  
+   
    ```
    $ sudo dd if=[your image].img of=/dev/sd[x]
    ```
    
-   **Warning**: Make sure the SD Card device is properly identified as /dev/sdb or /dev/sda  and verify that the device name is correct. Data loss may result if written to the wrong device. 
    
-2. After it is completed, please enter the following command:
+   
+2. After dd has completed, enter the following command:
 
    ```
    $ sync
@@ -58,14 +61,14 @@ The procedure describes how to flash an **Ubuntu/Debian/Yocto** image including 
 
 
 
-## To Flash the Yocto/Android Image
+## Flash a Yocto or Android Image
 
 ### Prerequisites
 
 - Copy the prebuilt bootable Yocto image to the working directory on your development host.
 - In Windows environments, please download the [Rockchip SD Firmware tool](https://hq0epm0west0us0storage.blob.core.windows.net/development/LEC-PX30/Tools/SDDiskTool_v1.6.rar) to flash the image to the SD Card.
 
-​       **Note:** All files will be erased on the SD Card. The size should be preferable 16 GB or larger. For better performance an class 10 SD card or higher is advised.
+  **Note:** All files will be erased on the SD Card. The size should be preferable 16 GB or larger. For better performance an class 10 SD card or higher is advised.
 
 
 <br>
