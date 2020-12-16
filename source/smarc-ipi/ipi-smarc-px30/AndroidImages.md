@@ -11,7 +11,9 @@ title: Android Images
 
 ### Binary Image download Link
 
-* Android 10  (image size: 989 MB - **Beta Release**): [Click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Android/LEC-PX30-IPI-SMARC_Android10_sdcard_2v6_20200916.zip)
+* Android 10 32bit (image size: 989 MB): [Click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Android/LEC-PX30-IPI-SMARC_Android10_sdcard_2v6_20200916.zip)
+
+* Android 10 64bit: by the middle of Dec.2020
 
   **Note**:
 
