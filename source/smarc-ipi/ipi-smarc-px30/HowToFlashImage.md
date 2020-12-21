@@ -3,8 +3,8 @@ title: How to Flash an Image to the SD Card
 
 The procedure describes how to flash an **Ubuntu/Debian/Yocto** image including u-boot, Linux kernel and filesystem to the SD Card.
 
-* [Flash the Ubuntu/Debian Image](HowToFlashImage.html#To-Flash-the-Ubuntu-Debian-Image)
-* [Flash the Yocto/Android Image](HowToFlashImage.html#To-Flash-the-Yocto-Android-Image)
+* [Flash the Ubuntu/Debian Image](#Flash-a-Ubuntu-Debian-Image)
+* [Flash the Yocto/Android Image](#Flash-a-Yocto-or-Android-Image)
 
 
 
