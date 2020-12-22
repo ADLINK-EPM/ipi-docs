@@ -20,14 +20,32 @@ Ubuntu is not available for download but has to be compiled by the user himself,
 
 #### Binary Image download Link
 
-* Pre-compiled Ubuntu 18.04 LTS image with XFCE desktop and MRAA/UPM libraries (image size: 7 GB): [Click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Ubuntu/LEC-PX30-iPI-SMARC-Ubuntu-18.04-SDCard-2v3-20200924.zip)
+* Ubuntu 18.04 LTS with XFCE desktop + MRAA/UPM (size of compressed file: 2.21 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Ubuntu/LEC-PX30-iPI-SMARC-Ubuntu-18.04-SDCard-2v3-20200924.zip)
+
+* All versions: <a data-toggle="collapse" data-target="#demo" href="#">click here</a>
+  
+    <div id="demo" class="iframe-container collapse" style="z-index: 100; background-color: white;"><iframe class="download-area" src="https://hq0epm0west0us0storage.z22.web.core.windows.net/?prefix=public/SMARC/LEC-PX30/Images/Ubuntu/&amp;pageLevel=0" scrolling="no">
+      	</iframe></div>
+    <style>
+    .iframe-container {
+        width: 115%;
+    }
+    .download-area {
+    	width:100%;
+    	min-height: 260px;
+    	height: 260px;
+        border: none;
+    }
+    </style>
+
+  
 
   **Note**: 
 
   1. Auto-login is enabled and no need to enter password  
   2. Please refer to [here](https://docs.ipi.wiki/iot_pi/HowToFlashImage.html#To-Flash-the-Ubuntu-Debian-Image) to guide you how to flash image to SD card
   3. Boot selector in I-Pi board won't work due to the design of [PX30 booting procedure](PX30BootFlow.html)
-  
+
   <br />
 
 #### Supported features & interfaces 

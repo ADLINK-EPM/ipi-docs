@@ -11,12 +11,25 @@ title: Android Images
 
 ### Binary Image download Link
 
-* Android 10 32bit (file size of the compressed image: 463 MB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Android/LEC-PX30-IPI-SMARC_Android10_sdcard_2v6_20200916.zip)
+* The latest Image of Android 10 64 bit: (size of compressed file: 599 MB):[click here](https://hq0epm0west0us0storage.z22.web.core.windows.net/public/SMARC/LEC-PX30/Images/Android/LEC-PX30-IPI-SMARC_Android10_64bit_sdcard_2v8_20201221.zip)
+* The latest Image of Android 10 32 bit (size of compressed file: 463 MB): [click here](https://hq0epm0west0us0storage.z22.web.core.windows.net/public/SMARC/LEC-PX30/Images/Android/LEC-PX30-IPI-SMARC_Android10_32bit_sdcard_2v6_20200916.zip)
+* All Versions: <a data-toggle="collapse" data-target="#demo" href="#">click here</a>
 
-* Android 10 64bit: (file size of the compressed image: 599 MB) [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-PX30/Images/Android/LEC-PX30-IPI-SMARC_Android10_64bit_sdcard_2v8_20201221.zip)
+<div id="demo" class="iframe-container collapse" style="z-index: 100; background-color: white;"><iframe class="download-area" src="https://hq0epm0west0us0storage.z22.web.core.windows.net/?prefix=public/SMARC/LEC-PX30/Images/Android/&amp;pageLevel=0" scrolling="no">
+  	</iframe></div>
+<style>
+.iframe-container {
+   width: 110%;
+}
+.download-area {
+	width:100%;
+	min-height: 260px;
+	height: 260px;
+    border: none;
+}
+</style>
 
-  **Note**:
-
+**Note**:
   1. Please find  [here](HowToFlashImage.html#To-Flash-the-Yocto-Android-Image) a description how to flash an image to the SD card
   2. Note that the SMARC boot device selector on the carrier does not work in conjunction with LEC-PX30 due to the design of [PX30 SOC boot order](PX30BootFlow.html)
 
