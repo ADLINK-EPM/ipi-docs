@@ -10,7 +10,7 @@
 
 ```
 $ git clone https://github.com/ADLINK-EPM/ipi-doc.git
-$ cd ipi-doc-source
+$ cd ipi-docs
 $ npm install
 $ npm install hexo-cli -g
 
