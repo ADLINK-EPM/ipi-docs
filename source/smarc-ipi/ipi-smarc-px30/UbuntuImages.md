@@ -1,7 +1,12 @@
 title: Ubuntu Images
 ---
 
- ### Ubuntu Bionic 18.04 LTS Xfce Desktop Environment
+<img align="right" src="https://logos-world.net/wp-content/uploads/2020/11/Ubuntu-Logo.png" width="200" />
+
+<br>
+
+
+ ## Ubuntu Bionic 18.04 LTS Xfce Desktop Environment
 
 Boot the system with the SD card placed in the slot located on the carrier, once booted you will see the login screen
 
@@ -11,14 +16,7 @@ Ubuntu is not available for download but has to be compiled by the user himself,
 
 <br />
 
-#### Usernames and passwords
-
-* two users are defined on the system: **root**, **adlink**
-* password is **adlink123**  for two users
-
-<br />
-
-#### Binary Image download Link
+### Binary Image download Link
 
 * Ubuntu 18.04 LTS with XFCE desktop + MRAA/UPM (size of compressed file: 2.21 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Ubuntu/LEC-PX30-iPI-SMARC-Ubuntu-18.04-SDCard-2v3-20200924.zip)
 
@@ -38,9 +36,7 @@ Ubuntu is not available for download but has to be compiled by the user himself,
     }
     </style>
 
-  
-
-  **Note**: 
+**Note**: 
 
   1. Auto-login is enabled and no need to enter password  
   2. Please refer to [here](https://docs.ipi.wiki/iot_pi/HowToFlashImage.html#To-Flash-the-Ubuntu-Debian-Image) to guide you how to flash image to SD card
@@ -48,7 +44,16 @@ Ubuntu is not available for download but has to be compiled by the user himself,
 
   <br />
 
-#### Supported features & interfaces 
+### Usernames and passwords
+
+* two users are defined on the system: **root**, **adlink**
+* password is **adlink123**  for two users
+
+<br />
+
+
+
+### Supported features & interfaces 
 
 * Linux Kernel version: **4.4.167**
 * [40 Pin expansion Header](UserInterfaces.html) with [Eclipse Mraa library](https://github.com/eclipse/mraa) and [Eclipse UPM library](https://github.com/eclipse/upm) which supports C/C++, Python, JAVA and JavaScript

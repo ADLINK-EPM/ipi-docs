@@ -7,6 +7,12 @@ title: Android Images
 
 ## Android 10
 
+Boot up the system from the SD card, once booted you will see the following screen:
+
+
+
+<img src="AndroidImages.assets/Screenshot_20200608-082418.png" alt="Screenshot_20200608-082418" style="zoom: 33%;" />
+
 
 
 ### Binary Image download Link
@@ -30,22 +36,11 @@ title: Android Images
 </style>
 
 **Note**:
-  1. Please find  [here](HowToFlashImage.html#To-Flash-the-Yocto-Android-Image) a description how to flash an image to the SD card
-  2. Note that the SMARC boot device selector on the carrier does not work in conjunction with LEC-PX30 due to the design of [PX30 SOC boot order](PX30BootFlow.html)
+
+1. Please find  [here](HowToFlashImage.html#To-Flash-the-Yocto-Android-Image) a description how to flash an image to the SD card
+2. Note that the SMARC boot device selector on the carrier does not work in conjunction with LEC-PX30 due to the design of [PX30 SOC boot order](PX30BootFlow.html)
 
 <br>
-
-
-
-Boot up the system from the SD card, once booted you will see the following screen:
-
-
-
-<img src="AndroidImages.assets/Screenshot_20200608-082418.png" alt="Screenshot_20200608-082418" style="zoom: 33%;" />
-
-
-
-
 
 ### Android supported features & interfaces 
 
@@ -63,8 +58,6 @@ Boot up the system from the SD card, once booted you will see the following scre
 * [MicroG ](https://microg.org/) service support: Providing the functionality required to run apps that use Google Play Services.
 * Raspberry Pi Camera V2.1 (2 Lanes) - SONY iMX219 sensor ([Datasheet](https://www.raspberrypi.org/documentation/hardware/camera/))  
 * WIFI/BT USB Dongle ([EW-7611ULB datasheet](https://www.edimax.com/edimax/mw/cufiles/files/download/datasheet/EW-7611ULB_datasheet_English.pdf))
-
-<br>
 
 <br>
 

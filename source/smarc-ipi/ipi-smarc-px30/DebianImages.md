@@ -4,7 +4,7 @@ title: Debian Image
 
  <img align="right" src="DebianImages.assets/debian-logo.jpg" width ="150"/>
 
-### Debian 10 Buster with Xfce Desktop Environment
+## Debian 10 Buster with Xfce Desktop Environment
 
 Boot the system with the SD card placed in the slot located on the carrier, once booted you will see the login screen.
 
@@ -12,18 +12,9 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 
 ​       **Note:** The kernel used is not Debian native. Debian rootfs image which is bootstrapped by the PX30 u-boot & Kernel.
 
+<br/>
 
-
-<br>
-
-#### Usernames and passwords
-
-   * Two users are defined for use on the system: **px30** and **root**.
-   * Passwords is **adlink123** for two users.
-
-<br>
-
-#### Binary Image download Link
+### Binary Image download Link
 
 * Debian 10 Buster with XFCE desktop + MRAA/UPM (size of compressed file: 1.57 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Debian/LEC-PX30-IPi-SMARC-Debian-10-xfce-2v6-20200924.zip)
 
@@ -43,21 +34,23 @@ Boot the system with the SD card placed in the slot located on the carrier, once
     }
     </style>
 
-  
 
-  **Note**: 
+   **Note**: 
 
   1. Auto-login is enabled and no need to enter password   
   2. Please refer to [here](https://docs.ipi.wiki/iot_pi/HowToFlashImage.html#To-Flash-the-Ubuntu-Debian-Image) to guide you how to flash image to SD card
   3. Boot selector in I-Pi board won't work due to the design of [PX30 booting procedure](PX30BootFlow.html)
 
+<br>
 
+### Usernames and passwords
 
-
+   * Two users are defined for use on the system: **px30** and **root**.
+   * Passwords is **adlink123** for two users.
 
 <br>
 
-#### Supported features & interfaces 
+### Supported features & interfaces 
 
 * Linux Kernel version: **4.4.167**
 * [40 Pin expansion Header](UserInterfaces.html) with [Eclipse Mraa library](https://github.com/eclipse/mraa) and [Eclipse UPM library](https://github.com/eclipse/upm) which supports C/C++, Python, JAVA and JavaScript 
