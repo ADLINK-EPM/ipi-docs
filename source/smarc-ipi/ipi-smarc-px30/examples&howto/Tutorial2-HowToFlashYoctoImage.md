@@ -20,6 +20,5 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 - One user is defined on the system: **root**
 - password is **adlink123**
 
-- 3. https://docs.ipi.wiki/smarc-ipi/ipi-smarc-px30/PX30BootFlow.html)
 
  

@@ -15,12 +15,15 @@ We need other connections on I-Pi to view the display captured from Camera, so r
 
 Install few other dependencies for our applications under Ubutnu/Debian images. 
 
+```
+$ sudo apt-get install libqt5gui5 libqt5qml5 libqt5quick5 libqt5webkit5 libqt5qml5 libqt5core5a qml-module-qtquick-controls qml-module-qtquick2 libqt5widgets5 libqt5x11extras5 qml-module-qtquick-dialogs
+```
+
+Note: Here is the Debian/Ubuntu images:
+
 1. [The download link](../DebianImages.html#Binary-Image-download-Link) for **the latest Debian binary images** which built by ADLINK if you need.
 2. [The download link](../UbuntuImages.html#Binary-Image-download-Link) for **the latest Ubuntu binary images** which built by ADLINK if you need.
 
-```python
-$ sudo apt-get install libqt5gui5 libqt5qml5 libqt5quick5 libqt5webkit5 libqt5qml5 libqt5core5a qml-module-qtquick-controls qml-module-qtquick2 libqt5widgets5 libqt5x11extras5 qml-module-qtquick-dialogs
-```
 
 ## Step 3: Testing the Camera
 
