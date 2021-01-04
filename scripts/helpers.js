@@ -8,7 +8,7 @@ var cheerio = require('cheerio');
 var lunr = require('lunr');
 
  
-var localizedPath = ['smarc-ipi','iot_pi'];
+var localizedPath = ['smarc-ipi','iot_pi', 'tutorial'];
 
 function startsWith(str, start) {
   return str.substring(0, start.length) === start;
@@ -258,7 +258,7 @@ hexo.extend.helper.register('canonical_path_for_nav', function() {
   var path = this.page.canonical_path;
 
  
- if (startsWith(path, 'smarc-ipi/') || startsWith(path, 'iot-pi/'))  {   
+ if (startsWith(path, 'smarc-ipi/') || startsWith(path, 'iot-pi/') || startsWith(path, 'tutorial/') )  {   
 	return path;
   }
   return '';
