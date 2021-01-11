@@ -37,7 +37,7 @@ Boot up the system from the SD card, once booted you will see the following scre
 
 **Note**:
 
-1. Please find  [here](HowToFlashImage.html#To-Flash-the-Yocto-Android-Image) a description how to flash an image to the SD card
+1. Please find  [here](HowToFlashImage.html#Flash-a-Yocto-or-Android-Image) a description how to flash an image to the SD card
 2. Note that the SMARC boot device selector on the carrier does not work in conjunction with LEC-PX30 due to the design of [PX30 SOC boot order](PX30BootFlow.html)
 
 <br>

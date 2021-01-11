@@ -39,7 +39,7 @@ Ubuntu is not available for download but has to be compiled by the user himself,
 **Note**: 
 
   1. Auto-login is enabled and no need to enter password  
-  2. Please refer to [here](https://docs.ipi.wiki/iot_pi/HowToFlashImage.html#To-Flash-the-Ubuntu-Debian-Image) to guide you how to flash image to SD card
+  2. Please refer to [here](HowToFlashImage.html#Flash-a-Ubuntu-Debian-Image) to guide you how to flash image to SD card
   3. Boot selector in I-Pi board won't work due to the design of [PX30 booting procedure](PX30BootFlow.html)
 
   <br />
