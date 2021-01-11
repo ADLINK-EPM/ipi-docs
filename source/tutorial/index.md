@@ -1,4 +1,4 @@
-title: Example & How'to
+title: Examples & How-to
 ---
 
 | Tutorials                                                    |                          Video link                          |
