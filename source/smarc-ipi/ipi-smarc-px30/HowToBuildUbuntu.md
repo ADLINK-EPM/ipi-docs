@@ -402,5 +402,5 @@ After finish step 3, get your SD card to connect to the development Linux Host P
 
     
     
-    #### Note:  The first boot may take over 5 minutes for the desktop screen to appear.
+#### Note:  The first boot may take over 5 minutes for the desktop screen to appear.
 

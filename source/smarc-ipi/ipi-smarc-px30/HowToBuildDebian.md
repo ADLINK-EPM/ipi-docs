@@ -310,7 +310,7 @@ After you run “./build.sh”, a menuconfig screen will appear as shown below. 
 If you dont see the menuconfig screen, install ncurses
 $ yum install ncurses-devel ncurses
 
-![image-20200309102707320](https://docs.ipi.wiki/iot_pi/HowToBuildUbuntu.assets/image-20200309102707320.png)
+![image-20200309102707320](HowToBuildUbuntu.assets/image-20200309102707320.png)
 
 The image will be generated as **“update.img”** under rockdev folder and will be used in SD Card.
 
@@ -349,35 +349,35 @@ After finishing step 3, get your SD card to connect to the development Linux hos
 
    **Note**: GParted is a free partition editor for graphically managing your disk partitions. Please check [this link](https://gparted.org/index.php).
 
-3. Select SD card as highlighted in above corner in below picture![gparted1](https://docs.ipi.wiki/iot_pi/HowToBuildUbuntu.assets/gparted1-1583897658803.png)
+3. Select SD card as highlighted in above corner in below picture![gparted1](HowToBuildUbuntu.assets/gparted1-1583897658803.png)
 
-4. Select partition 9 and give right click, then select delete![gparted2](https://docs.ipi.wiki/iot_pi/HowToBuildUbuntu.assets/gparted2-1583897706819.png)
+4. Select partition 9 and give right click, then select delete![gparted2](HowToBuildUbuntu.assets/gparted2-1583897706819.png)
 
 5. Save the changes and select apply
 
-![gparted3](https://docs.ipi.wiki/iot_pi/HowToBuildUbuntu.assets/gparted3-1583903424202.png)
+![gparted3](HowToBuildUbuntu.assets/gparted3-1583903424202.png)
 
 6. After changes are applied, select close.
 
-![gparted4](https://docs.ipi.wiki/iot_pi/HowToBuildUbuntu.assets/gparted4.png)
+![gparted4](HowToBuildUbuntu.assets/gparted4.png)
 
 7. Select the root fs partition and select resize option above. Partition 8 (/dev/sdc8) is the rootfs partition in below picture.
 
-![gparted5](https://docs.ipi.wiki/iot_pi/HowToBuildUbuntu.assets/gparted5.png)
+![gparted5](HowToBuildUbuntu.assets/gparted5.png)
 
 8. Increase the size and select Resize/Move option
 
-![gparted6](https://docs.ipi.wiki/iot_pi/HowToBuildUbuntu.assets/gparted6.png)
+![gparted6](HowToBuildUbuntu.assets/gparted6.png)
 
 9. Save the changes and select apply
 
-![gparted3](https://docs.ipi.wiki/iot_pi/HowToBuildUbuntu.assets/gparted3-1583903538497.png)
+![gparted3](HowToBuildDebian.assets/gparted3-1583903538497.png)
 
 10. Close GParted and eject SD card. Also connect your SD Card to the development Linux host PC.
 
 11. Run **lsblk** command to get the path for mounted rootfs partition.
 
-![lsblk_output](https://docs.ipi.wiki/iot_pi/HowToBuildUbuntu.assets/lsblk_output-1583903709858.png)
+![lsblk_output](HowToBuildUbuntu.assets/lsblk_output-1583903709858.png)
 
 12. Remove the existing contents as this file system is the default build root file system.
 
