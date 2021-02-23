@@ -12,7 +12,7 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 
 <img src="UbuntuImages.assets/Screenshot_2020-01-08_11-51-14.png" alt="Screenshot_2020-01-08_11-51-14" style="zoom: 33%;" />
 
-Ubuntu is not available for download but has to be compiled by the user himself, please follow [the steps](https://ipi.wiki/iot_pi/HowToBuildUbuntu.html) in “build your OS” to do this.
+Ubuntu is not available for download but has to be compiled by the user himself, please follow [the steps](HowToBuildUbuntu.html) in “build your OS” to do this.
 
 <br />
 
