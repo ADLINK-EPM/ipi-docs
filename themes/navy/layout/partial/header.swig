@@ -7,10 +7,11 @@
       <a class="navbar-brand" href="https://www.ipi.wiki/" target="_self">
       <img src="https://xfii.b-cdn.net/uploads/i-pi-smarc/5ieu2go.jpg" class="img-fluid" style="height:27px;top: 8px;position: relative;/* display: inline-block; */" alt="">  </a>
       <a href="https://www.ipi.wiki/" class="main-nav-link" target="_self"> Home</a>
-      {{ header_menu('main-nav') }}    
+      {{ header_menu('main-nav') }}
+      <a href="https://github.com/adlink" class="main-nav-link"><i class="fa fa-github-alt"></i> GitHub</a>
+      <a href="https://www.ipi.wiki/community/forum" class="main-nav-link" target="_self"> Community </a>    
     </nav>
-	<nav><a href="https://github.com/adlink" class="main-nav-link"><i class="fa fa-github-alt"></i> GitHub</a></nav>
-	<nav><a href="https://www.ipi.wiki/community/forum" class="main-nav-link" target="_self"> Community </a></nav>
+
 	
 
 

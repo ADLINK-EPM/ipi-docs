@@ -1,7 +1,7 @@
 title: Ubuntu Images
 ---
 
-<img align="right" src="https://logos-world.net/wp-content/uploads/2020/11/Ubuntu-Logo.png" width="200" />
+<img align="right" src="UbuntuImages.assets/ubuntu_logo.png" width="200" />
 
 <br>
 

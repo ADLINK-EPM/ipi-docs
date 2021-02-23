@@ -2,10 +2,7 @@
   <div id="mobile-nav-inner">
     <ul id="mobile-nav-list">
       {{ header_menu('mobile-nav') }}
-      <li class="mobile-nav-item">
-        <a href="https://github.com/adlink" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
-		<a href="https://www.ipi.wiki" class="mobile-nav-link" rel="external" target="_itself">Home</a>
-      </li>
+      <a href="https://github.com/adlink" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
     </ul>
     {% if page.layout == 'page' %}
       {{ doc_sidebar('mobile-nav') }}

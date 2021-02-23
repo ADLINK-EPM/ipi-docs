@@ -17,7 +17,7 @@
               {{ partial('partial/comment') }}
             </div>
           </div>
-          <aside id="article-toc" role="navigation">
+          <aside id="article-toc" role="navigation" class="fixed">
             <div id="article-toc-inner">
               <strong class="sidebar-title">Outline</strong>
               {{ toc(page.content, {list_number: false}) }}
