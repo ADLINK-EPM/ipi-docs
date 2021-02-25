@@ -16,7 +16,7 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 
 ### Binary Image download Link
 
-* Debian 10 Buster with XFCE desktop + MRAA/UPM (size of compressed file: 1.57 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Debian/LEC-PX30-IPi-SMARC-Debian-10-xfce-2v6-20200924.zip)
+* Debian 10 Buster with XFCE desktop + MRAA/UPM (size of compressed file: 1.57 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-PX30/Images/Debian/LEC-PX30-IPi-SMARC-Debian10-xfce-2v7-20210219.zip)
 
 * All versions: <a data-toggle="collapse" data-target="#demo" href="#">click here</a>
 

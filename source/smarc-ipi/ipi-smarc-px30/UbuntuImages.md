@@ -18,7 +18,7 @@ Ubuntu is not available for download but has to be compiled by the user himself,
 
 ### Binary Image download Link
 
-* Ubuntu 18.04 LTS with XFCE desktop + MRAA/UPM (size of compressed file: 2.21 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Ubuntu/LEC-PX30-iPI-SMARC-Ubuntu-18.04-SDCard-2v3-20200924.zip)
+* Ubuntu 18.04 LTS with XFCE desktop + MRAA/UPM (size of compressed file: 2.21 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-PX30/Images/Ubuntu/LEC-PX30-iPI-SMARC-Ubuntu-18.04-SDCard-2v4-20210216.zip)
 
 * All versions: <a data-toggle="collapse" data-target="#demo" href="#">click here</a>
   
