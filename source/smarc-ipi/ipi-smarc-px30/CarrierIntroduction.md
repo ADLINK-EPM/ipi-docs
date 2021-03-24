@@ -17,6 +17,10 @@ title: Carrier Board Introduction
 
 <br>
 
+[Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-PX30/Documentation/I-Pi-SMARC-PX30-datasheet-20200730.pdf)
+
+<br>
+
 ### **Features**
 
 *  SMARC revision 2.1 compliant

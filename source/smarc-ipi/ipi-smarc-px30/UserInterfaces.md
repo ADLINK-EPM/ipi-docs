@@ -3,10 +3,10 @@ title:  User Interfaces
 
 
 
-## Industrial I-Pi SMARC with SMARC LEC-PX30 SoM
+## I-Pi SMARC with SMARC LEC-PX30 SoM
 
 
-<img src="UserInterfaces.assets/UserInterface.png" style="zoom:67%;" />
+![PX30](UserInterfaces.assets/PX30.jpg)
 
 |      | Component           | Description                                                  |
 | ---- | :------------------ | ------------------------------------------------------------ |

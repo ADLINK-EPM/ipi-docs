@@ -5,7 +5,7 @@ title: Module Introduction
 
 
 
-![SMARC – SGET](ModuleIntroduction.assets/SMARC-module-logo_500px.jpg)
+<img src="ModuleIntroduction.assets/SMARC-module-logo_500px.jpg" alt="SMARC – SGET" style="zoom: 50%;" />
 
 
 
