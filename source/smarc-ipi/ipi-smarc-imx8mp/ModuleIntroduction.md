@@ -35,7 +35,7 @@ available online at : <https://www.sget.org/standards/smarc.html>
 
 **SoC**
 
-Rockchip PX30 with Quad-core ARM Cortex-A35 CPU TrustZone technology support ARMv8 Cryptography Extensions”
+Quad-core ARM Cortex-A53 CPU TrustZone technology support ARMv8 Cryptography Extensions
 
 **Memory**
 
