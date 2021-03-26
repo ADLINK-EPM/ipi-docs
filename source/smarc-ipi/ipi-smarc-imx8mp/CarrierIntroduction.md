@@ -9,21 +9,23 @@ SMARC 2.1 Carrier Board with M.2 Extension
 
 ![IMX8M-Plus](CarrierIntroduction.assets/IMX8M-Plus.jpg)
 
+[Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/documentation/ADLINK-I-Pi-IMX8M-PLUS-Datasheet.pdf)
 
+<br>
 
-**Features**
-■ Based on NXP i.MX8M Plus quad-core SoC with integrated NPU,
-VPU and GPU units
-■ Equipped with SMARC 2.1 compatible module specially designed for
+### **Features**
+■ Equipped with SMARC 2.1 compliant, specially designed for
 industrial embedded applications requiring long life, high MTBF and
 strict revision control
 ■ Includes everything needed to go live in minutes
 ■ Industrial grade quality and 15 year product availability
 ■ Supports Android, Ubuntu and Yocto OS
 
-**Specifications**
+<br>
 
-**Video**	 
+### **Specifications**
+
+#### Graphics and Camera
 
 ​    1x HDMI 1.4b / 2.0b 
 
@@ -35,19 +37,17 @@ strict revision control
 
 ​    1x MIPI-CSI quad lane interface 
 
-**Audio**	 
+#### **Audio**	 
 
 ​    Interchangeable audio codec connector with I2S and HDA signals 
 
-**Dual Ethernet**	 
+#### **Dual Ethernet**	 
 
 ​    1x 10/100/1000 RJ45 connector 
 
 ​    1x 10/100/1000 RJ45 connector 
 
-**Expansion Busses**	 
-
-​     PCIe over M.2 connector  
+#### **Expansion Busses**	 
 
 ​     2x USB 3.0, 2x USB 2.0, 1x USB 2.0 OTG connectors 
 
@@ -59,19 +59,25 @@ strict revision control
 
 ​     1x I²S interface to audio interface  
 
-​      2x I²C interface on pin header 
+​     2x I²C interface on pin header 
 
-​      17x GPIO with interrupt on pin header 
+​     14x GPIO with interrupt on pin header
 
-**Storage**	 
+​      M.2 B-key and M.2 E-key expansion slots for additional storage or communication
+
+​      Micro SD card slot
+
+​      SIM card slot
+
+#### **Storage**	 
 
 ​      1x SDIO (4-bit) compatible with SD/SDIO standard, up to version 3.0 
 
-**Power** 
+#### **Power** 
 
-​      12Vdc input via barrel connector 
+​      19Vdc input via barrel connector 
 
-**Mechanical and Environmental**	 
+#### **Mechanical and Environmental**	 
 
 ​      Form Factor: SGET SMARC Specifications 2.1 
 
@@ -103,6 +109,6 @@ strict revision control
 
 
 
-**Block Diagram** 
+### **Block Diagram** 
 
 ![block_diagram](CarrierIntroduction.assets/block_diagram-1616579611776.PNG)

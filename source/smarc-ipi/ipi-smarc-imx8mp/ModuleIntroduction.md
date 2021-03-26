@@ -35,131 +35,185 @@ available online at : <https://www.sget.org/standards/smarc.html>
 
 **SoC**
 
-Quad-core ARM Cortex-A53 CPU TrustZone technology support ARMv8 Cryptography Extensions
+   NXP i.MX8M Plus with Quad core ARM Cortex-A53
+   TrustZone technology supports ARMv8 Cryptography Extensions
+   2.3 TOPS Neural Processing Unit (optional)
 
 **Memory**
 
-1GB or 2GB DDR3L at 1066/1333 MHz, memory down (non ECC)
+   2/4/8GB LPDDR4L-4266
 
 **L2 Cache**
 
-256KB unified system L2 cache
+   512KB system L2 cache (ECC)
 
-**IoT security**
+**Security**
 
-CryptoAuthentication™ Device, Microchip ATECC608A
+   Resource Domain Controller (RDC) supports 4 domains and up to 8 regions of DDR
+   Arm® TrustZone® (TZ) architecture: Cortex®-A53 MPCore TrustZone® support
+   On-chip RAM (OCRAM) secure region protection using OCRAM controller
+   High Assurance Boot (HAB)
+   Cryptographic Acceleration and Assurance Module (CAAM)
+   Capable to support Widevine and PlayReady content protection
+   Public Key Cryptography (PKHA) with RSA and Elliptic Curve (ECC) algorithms
+   Real-time integrity checker (RTIC)
+   DRM support for RSA, AES, 3DES, DES
+   Side channel attack resistance
+   True random number generation (RNG)
+   Manufacturing protection support / Secure Non-Volatile Storage (SNVS)
 
-Cryptographic co-processor with secure hardware-based key storage for sign-verify authentication provides Internet of Things (IoT) Protected
-Storage for up to 16 keys, certificates or data ECDH: FIPS SP800-56A Elliptic Curve Diffie-Hellman NIST standard P256, elliptic curve support SHA-256 & HMAC hash including off-chip context save/restore AES-128: encrypt/decrypt, galois field multiply for GCM”
+**MIPI-DSI**
+   1x MIPI-DSI 4 lanes
+**Cameras**
+   1x MIPI-CSI dual lane interface
+   1x MIPI-CSI quad lane interface
 
 ### Video
 
-LEC-PX30 standard display support is limited to either 4-lane MIPI DSI or single channel 24-bit LVDS. DSI and LVDS are multiplexed and either of them can simply be enabled at boot time. HDMI panel support up to 1920x1080 resolution can be achieved by using a simple bridge on the carrier. A reference design based on ADV7335 “MIPI/DSI Receiver with HDMI Transmitter” is available
-
-**GPU Core:**
-
-Mali-G31
-
+**GPU Core**
+   Vivante GC7000UL 3D GC520L 2D
 **GPU Feature Support**
+   GC7000UL (2 shaders), OpenGL ES 1.1, 2.9, 3.0, Vulkan,
+   OpenCL 1.2; GC380 (2D) and OpenGL 3.0
 
-Supports DirectX 11 FL9_3, OpenGLES 1.1/ 2.0 / 3.2, Vulkan 1.0, OpenCL 2.0
+**VPU Feature Support**
+   1080p60 VP9 Profile 0, 2 (10 bit) decoder (Hantro G2),
+   input video stream can be 10-bit, the output decoded
+   video is always 8-bit after post-processing in G2 core
+   1080p60 HEVC/H.265 decoder (Hantro G2)
+   1080p60 AVC/H.264 Baseline, Main, High decoder (Hantro G1)
+   1080p60 VP8 decoder (Hantro G1)
+   The video encoding features include:
+   1080p60 AVC/H.264 Encoder
+   1080p60 HEVC/H.265 Encoder
 
-Full Profile Video decoding: H.264 up to 1080p@60fps, H.265/HEVC up to 1080p@60fps
+**NPU**
 
-MPEG-4, ISO/IEC 14496-2, SP@L0-3, ASP@L0-5, up to 1080p@60fps VP8, up to 1080p@60fps
+   2.3 TOP/s Neural Network performance
 
-Video Encoding: H.264 video encoder at BP/MP/HP@level 4.2 1920x1080@30fps, 1x 1080p@30fps or 2x 720p@30fps encoding
+**HDMI**
+   HDMI 2.0a supporting resolution up to 1920 × 1080 at 60 Hz 
 
 **MIPI DSI**
 
-MIPI DSI 4 lanes at max. 1080p@60fps display output (default, multiplexed with LVDS signal)
+   DSI 4 lanes at max. 1080p@60fps display output (multiplexed with LVDS signal)
 
 **LVDS**
 
-LVDS single channel 24-bit at max. 1280x800@60fps (multiplexed with MIPI DSI signal)
+   LVDS single/dual channel 24-bit at max. 1920 ×1080 at 60 Hz 
 
-**Camera**
+**Camera support**
 
-MIPI CSI RX Interface
+   Compatible with the MIPI Alliance Interface specification v2.1
 
-\- Compatible with the MIPI Alliance Interface specification v1.0
-
-\- Up to 4 data lanes, 1.0Gbps maximum data rate per lane, supporting MIPI-HS, MIPI-LP mode
+   Two MIPI-CSI2 camera inputs, one 4-lane and one 2-lane
 
 ### Audio
 
-Supports ES8316 codec for high performance and low power multi-bit deltasigma
-
-audio ADC and DAC (located on carrier)
+   Supports I2S audio codec interface, audio ADC and DAC (located on carrier)
 
 ### Dual Ethernet
 
 **Primary LAN**
 
-MAC 10/100 Ethernet Controller on SoC
-Supports 10/100-Mbps data transfer rates, both full-duplex and half-duplex
+   Gigabit Ethernet controller with support for TSN in addition to Energy Efficient Ethernet (EEE), Ethernet   AVB, and IEEE 1588  
+
+   Supports 10/100/1000-Mbps data transfer rates, both full-duplex and half-duplex " 
 
 **Secondary LAN**
 
-MAC/PHY 10/100 Ethernet Controller on LAN9514 via USB 2.0
-Supports 10/100-Mbps data transfer rates, both full-duplex and half-duplex
+   Gigabit Ethernet controller with support for Energy Efficient Ethernet (EEE), Ethernet AVB, and IEEE 1588  
+
+   Supports 10/100/1000-Mbps data transfer rates, both full-duplex and half-duplex  
+
+### 1216 M.2 LGA WIFI (optional) 
+
+   LEC-IMX8MP can be equipped with an optional WIFI LGA module. 
+
+   In case of non-populated part, the footprint is still there and visible 
+
+   Only the Azurewave AW-CM276NF has been validated during DVT but other M.2 LGA modules could be   compatible as well if they use the same standard interfaces, following are the used interface  
+
+- SDIO0 (main WIFI interface) 
+
+
+- UART1 (main Bluetooth interface) 
+
+- PCM ( Bluetooth audio transfer interface ) 
+
+  AW-CM276F has been pre-certified by Azurewave for several countries and regions, Adlink can assist in   final device certification if applicable 
+
+  FCC ID: UAY-W8997-M1216
 
 ### Extension busses
 
+**PCIe**
+
+   Two PCI Express GEN2 x1 interfaces 
+
 **USB**
 
-4x USB 2.0, 1x USB OTG
+   2x USB 3.0/2.0, 3x USB 2.0 and, 1x USB2.0 OTG
 
 **UART**
 
-Two UART interfaces SER0 and SER2 (TX/X/CTS/RTS), 64-byte FIFO and support for 5-bit, 6-bit, 7-bit, 8-bit data transmit or receive
+   Four UART interface SER0, SER2 (Tx/Rx/CTS/RTS) and SER1, SER3(optional) (Tx/Rx)  
+
+   7- or 8-bit data words, 1 or 2 stop bits, programmable parity (even, odd, or none) 
+
+   Programmable baud rates up to 4 Mbps
 
 **CAN bus**
 
-Supports CAN2.0B only or mixed CAN2.0B and CAN FD mode, data bit rate up to 8 Mbps
+   Supporting dual CAN2.0B only or mixed CAN2.0B and CAN FB mode, data bit rate up to 8 Mbps  
 
 **SPI**
 
-2x SPI (one occupied by SPI-to-CAN controller)
+   2x SPI
 
 **I2S**
 
-2x I2S interfaces with audio resolution from 16-bits to 32-bits and sample rate up to 192KHz (see Audio Codec support)
+   I2S interface< CODEC located on the carrier 
 
 **I2C**
 
-Four I2C interfaces
+   5x I2C interfaces 
 
-\- Support for 7-bit and 10-bit address mode
+- Support for 7-bit and 10-bit address mode 
 
-\- Software programmable clock frequency of 100 kbit/s in Standard-mode,
+- Software programmable clock frequency of 100 kbit/s in Standard-mode, 
 
-400 kbit/s in the Fast-mode or 1 Mbit/s in Fast-mode Plus
+  400 kbit/s in the Fast-mode or 1 Mbit/s in Fast-mode Plus 
 
 **GPIO**
 
-12x GPIO with interrupt, one GPIO with PWM
+   14x GPIO with interrupt 
 
 ### System Storage
 
 **SDIO**
 
-1x SDIO (4-bit) compatible with SD3.0, MMC ver. 4.51
+   1x SDIO (4-bit) compatible up to version 3.0.
 
 **eMMC**
 
-8, 16, 32 or 64 GB (build option)
-Compatible with eMMC specification 4.41, 4.51, 5.0 and 5.1
+   Soldered on module 16, 32 or 64GB (build option) either standard or -40+85C temp range 
+
+   Compatible with eMMC specification 4.41, 4.51 and 5.0
 
 ### SEMA® Board Management Controller
 
-Voltage/current monitoring, boot configuration, logistics and forensic
+   Voltage/current monitoring, boot configuration, logistics and forensic 
 
-information, flat panel control, watchdog timer
+   information, flat panel control, watchdog timer 
 
 ### Debug Header
 
-30-pin multipurpose flat cable connector for use with optional DB-30 debug module Provides JTAG, BMC access; UART, power test points; diagnostic LEDs, Power, Reset, Boot configuration
+   30-pin multipurpose flat cable connector for use with optional DB-30 debug module Provides JTAG, BMC    access; UART, power test points; diagnostic LEDs, Power, Reset, Boot configuration 
+
+### Boot Modes
+
+   eMMC and SD-Card boot modes are supported
 
 ### Power
 
@@ -194,3 +248,4 @@ Rugged: -20°C to +85°C (optional)
 IEC 60068-2-64 and IEC-60068-2-27, MIL-STD-202 F, Method 213B, Table 213-I,
 
 Condition A and Method 214A, Table 214-I, Condition D
+
