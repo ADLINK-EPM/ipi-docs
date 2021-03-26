@@ -2,14 +2,14 @@ title: Debian Image
 ---
 
 
- <img align="right" src="DebianImages.assets/debian-logo.jpg" width ="150"/>
+<img align="right" src="DebianImages.assets/debian-logo.jpg" width ="150"/>
 
 ## Debian 10 Buster with Xfce Desktop Environment
 
 Boot the system with the SD card placed in the slot located on the carrier, once booted you will see the login screen.
-
+<center>
 <img src="DebianImages.assets/Screenshot_2020-04-23_07-31-23-1587627343117.png" alt="Screenshot_2020-04-23_07-31-23" style="zoom: 33%;" />
-
+</center>
 ​       **Note:** The kernel used is not Debian native. Debian rootfs image which is bootstrapped by the PX30 u-boot & Kernel.
 
 <br/>
@@ -70,6 +70,6 @@ Boot the system with the SD card placed in the slot located on the carrier, once
  <br>
 
 **Running glmark2-es2 program to benchmark for Mali-G31 with x11**
-
+<center>
 <img src="DebianImages.assets/glmark2_debian.png" alt="glmark2_debian" style="zoom: 40%;" />
-
+</center>

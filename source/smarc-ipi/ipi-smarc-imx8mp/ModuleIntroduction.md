@@ -1,10 +1,10 @@
 title: Module Introduction 
 ---
-<img src="ModuleIntroduction.assets/SMARC-module-logo_500px.jpg" alt="SMARC-module-logo_500px" style="zoom: 50%;" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ModuleIntroduction.assets/nxp.png" alt="nxp" style="zoom: 33%;" />
+<img src="ModuleIntroduction.assets/SMARC-module-logo_500px.jpg" alt="SMARC-module-logo_500px" style="zoom: 50%" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ModuleIntroduction.assets/nxp.png" alt="nxp" style="zoom: 33%;" />
 
-
-
-![MicrosoftTeams-image](ModuleIntroduction.assets/MicrosoftTeams-image.png)
+<center>
+<img src="ModuleIntroduction.assets/MicrosoftTeams-image.png" alt="SMARC-module-logo_500px"  /> 
+</center>
 
 [Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/documentation/LEC-IMX8MP-datasheet-preliminary-20210128.pdf)
 

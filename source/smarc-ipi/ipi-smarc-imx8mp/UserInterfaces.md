@@ -1,12 +1,20 @@
 #  I-Pi-SMARC with SMARC IMX8M Plus SoM
 
-![IMX8M-Plus](UserInterfaces.assets/IMX8M-Plus.jpg)
+<center>
+<img src="UserInterfaces.assets/IMX8M-Plus.jpg" /> 
+</center>
+
 
 **40-Pin Expansion Headers:**
 
-![40 pins](UserInterfaces.assets/40-pins.png)
+<center>
+<img src="UserInterfaces.assets/40-pins.png" /> 
+</center>
+
+
 
 ## 40-Pin RPI Compatible Expansion Header (1)
+<center>
 
 | Function     | MRAA   Number | MRAA  number | Function |
 | ------------ | :------------ | ------------ | -------- |
@@ -31,7 +39,11 @@
 | GPIO 26      | 37            | 38           | GPIO 20  |
 | GND          | 39            | 40           | GPIO 21  |
 
+</center>
+
 ## 40-Pin Expansion Header(2)
+
+<center>
 
 | Function       | Pin Number | Pin number | Function      |
 | -------------- | ---------- | ---------- | ------------- |
@@ -56,15 +68,18 @@
 | NC             | 37         | 38         | NC            |
 | NC             | 39         | 40         | NC            |
 
-
+</center>
 
 **Connector Pinout and Signal Descriptions**
 
-![LVDS](UserInterfaces.assets/LVDS.png)
-
+<center>
+<img src="UserInterfaces.assets/LVDS.png" /> 
+</center>
 
 
 ## LVDS Pin Header 0
+
+<center>
 
 | Function           | Pin Number | Pin Number | Function                |
 | ------------------ | ---------- | ---------- | ----------------------- |
@@ -84,9 +99,11 @@
 | DDC0_CK            | 28         | 27         | LVDS0_EDP0_DSI0_CK_CN_N |
 | GND                | 30         | 29         | GND                     |
 
-
+</center>
 
 ## LVDS Pin Header 1
+
+<center>
 
 | Function           | Pin Number | Pin Number | Function                |
 | ------------------ | ---------- | ---------- | ----------------------- |
@@ -106,3 +123,4 @@
 | DDC1_CK            | 28         | 27         | LVDS1_EDP1_DSI1_CK_CN_N |
 | GND                | 30         | 29         | GND                     |
 
+</center>

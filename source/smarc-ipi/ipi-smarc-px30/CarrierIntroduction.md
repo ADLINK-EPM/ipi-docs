@@ -10,12 +10,10 @@ title: Carrier Board Introduction
 
 
 
-
+<center>
 <img align="center" src="CarrierIntroduction.assets/image-20201013150420667.png" alt="image-20201013150420667" style="zoom: 50%;" />
+</center>
 
-
-
-<br>
 
 [Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-PX30/Documentation/I-Pi-SMARC-PX30-datasheet-20200730.pdf)
 
@@ -101,5 +99,6 @@ title: Carrier Board Introduction
       <br>
 
 ### **Block Diagram**
-
+<center>
 <img src="CarrierIntroduction.assets/image-20201013151208316.png" alt="image-20201013151208316" style="zoom:80%;" />
+</center>

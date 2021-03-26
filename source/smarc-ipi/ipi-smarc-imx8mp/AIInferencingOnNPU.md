@@ -26,7 +26,11 @@ The Features include:
 
 Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify the patterns and make decisions with minimal human intervention.
 
-![fig2](AIInferencingOnNPU.assets/fig2.PNG)
+<center>
+<img src="AIInferencingOnNPU.assets/fig2.PNG"   /> 
+</center>
+
+
 
 The major benefits of this software is edge inference and intelligence, No cloud dependency, privacy and better user experience. In 2010[1], the so-called deep learning started. It is a fast-growing subdomain of ML, based on Neural Networks (NN). Inspired by the human brain, deep learning achieved state-of-the-art results in various tasks. Neural networks are capable of learning complex patterns from millions of examples. A huge adaptation is expected in the embedded world where NXP created eIQ machine learning software for i.MX applications processors, a set of ML tools which allows developing and deploying ML applications on the i.MX 8 family of devices.
 
@@ -34,7 +38,10 @@ eIQ software acts as the bridge between NN and Arm machine learning processors t
 
 The below figure describes the block diagram of eIQ software for Arm NN SDK
 
-![fig3](AIInferencingOnNPU.assets/fig3.PNG)
+<center>
+<img src="AIInferencingOnNPU.assets/fig3.PNG"   /> 
+</center>
+
 
 ### AI innovations based on daily life
 
@@ -42,7 +49,10 @@ AI has even appeared to guess human conduct, and foresee cautioning signs by per
 
 As futurists attempt to design out a quickly changing and propelling world, the greatest obstacle is neither the innovative, nor financial and political. It is the pace of the changes that are coming up with the introduction of new capabilities and improvements of the inference model. Only an imposing business model of the futureproof computer on modules can be responsible to control the most recent achievements in information gathering, handling, and managing daily needs in the world such as ATMs, Ticket vending machines, surveillance network, etc. Keeping in mind that we may trust that AI will help advance our public, we need hardware that could support this kind of software requirements.
 
-![fig1](AIInferencingOnNPU.assets/fig1.PNG)
+
+<center>
+<img src="AIInferencingOnNPU.assets/fig1.PNG"   /> 
+</center>
 
 In recent days, Artificial intelligence is created by engineers for performing organized tasks with supervised learning. Its purpose is to handle the allotted task without any self-thinking. It is good at speech and Image recognition and playing a few games. Machine learning makes the computer or machines to think as humans do. It is like the learning of newborn babies that starts with zero but improves with data intake. The computer grasps knowledge with a neural network. It learns to analyze the situation with predictions. The world is full of data with visuals and sounds. AI evolves with analytical, logical, and creative thinking. 
 
@@ -64,7 +74,12 @@ One does not need to train or build those AI models, Inference engines could rep
 
 But most of the developers prefer well-known frameworks such as Caffe, TensorFlow, PyTorch, ONNX, etc. If we keep on installing the AI libraries on embedded devices manually, it takes a lot of time, space, and also finding the correct source for the required package could be a challenging task. So, this whole process is just to make the application work, still more effort to optimize it. Therefore nowadays Industrial manufacturers and developers prefer ready environments, as they focus on application development rather than research. Henceforth, the inference engines are calibrated to make this complex procedure much easier where users can develop their applications from pre-trained models without considering all the background tasks. This makes the hardware compatible with software for a longer time and reduces the cost for the Industry. The below picture explains the Neural network runtime architecture (NNRT) [1]. 
 
-![fig4](AIInferencingOnNPU.assets/fig4.PNG)
+
+<center>
+<img src="AIInferencingOnNPU.assets/fig4.PNG"   /> 
+</center>
+
+
 
 So far we have understood how the inference engines are supporting the NPU inferencing in eIQ machine learning software. Transfer learning is a machine learning method where a model is developed for a task reused as the initial point on the second task. It is one of the popular approach and time saving method where pre-trained models are used as the initial point to follow up with the second task.
 
@@ -90,7 +105,12 @@ For better understanding on NPU inferencing on I-Pi SMARC IMX8M Plus, results of
 
 The above histogram clearly shows the difference of NPU and CPU inferencing on I-Pi SMARC IMX8M Plus
 
-![fig6](AIInferencingOnNPU.assets/fig6.PNG)
+
+<center>
+<img src="AIInferencingOnNPU.assets/fig6.PNG"   /> 
+</center>
+
+
 
 ## Netron
 
@@ -116,11 +136,17 @@ $ winget install netron
 
 Being a viewer for neural networks and machine learning models, it generates beautiful visualizations that you can use to clearly communicate the structure of your neural network. What’s more, using the tool, you can explore your models in great detail. And best of all, it’s a cross-platform tool. During transfer learning, Netron helps to analyze the input parameters of the network which can helpful during retraining in transfer Learning. The below figure describes an example of the network visualizer. 
 
-![image-8](AIInferencingOnNPU.assets/image-8.png)
+<center>
+<img src="AIInferencingOnNPU.assets/image-8.png"   /> 
+</center>
 
 ## Future innovation
 
-![MicrosoftTeams-image](AIInferencingOnNPU.assets/MicrosoftTeams-image-1616493434194.png)
+
+
+<center>
+<img src="AIInferencingOnNPU.assets/MicrosoftTeams-image-1616493434194.png"   /> 
+</center>
 
 I-Pi SMARC IMX8M Plus can be used for various applications such as gaming & computing, connectivity, security, industrial automation, energy management, health care, transport & mobility, smart logistics, smart home and AI/ML inferencing.
 

@@ -26,14 +26,15 @@ The procedure describes how to flash an **Ubuntu/Debian/Yocto** image including 
 
 1. Insert an empty MicroSD Card into the development host and execute rufus.exe as the picture below. It will auto-detected your storage drives.
 
+<center>
 <img align="center" src="HowToFlashImage.assets/rufus_1.png" style="zoom: 67%;" />
-
+</center>
 
 
 2. Press the **SELECT** button and browse to the .img file previously copied to your working directory on the development host. Then click **START** and wait for the process to be finished.
-
+<center>
 <img align="center" src="HowToFlashImage.assets/rufus_2.png" alt="win32diskimager_load_image" style="zoom: 67%;" />
-
+</center>
 
 
 
@@ -86,9 +87,9 @@ Insert an empty MicroSD Card into the development host and execute the Rockchip 
 * Load your build Yocto image as "Firmware" 
 
 then, click the **Create** button to start the process.
-
+<center>
 <img src="HowToFlashImage.assets/image-20200303115215481.png" alt="image-20200303115215481" style="zoom:80%;" />
-
+</center>
 * The tool will prompt to the user that data will be lost. Select "Yes" to continue
 
 * Once done, click **OK** and close the SD Firmware Tool 

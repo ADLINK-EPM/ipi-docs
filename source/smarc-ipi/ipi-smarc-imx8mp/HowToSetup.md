@@ -14,7 +14,7 @@ title: Quick start instructions
   <br>
 
 **Watch our unboxing video to find more**:
-
+<center>
 <iframe
     width="640"
     height="480"
@@ -24,3 +24,5 @@ title: Quick start instructions
     allowfullscreen
 >
 </iframe>
+</center>
+

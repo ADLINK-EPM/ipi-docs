@@ -7,7 +7,10 @@ Industrial Prototyping Kit for IoT/AIoT with Off-the-Shelf SMARC Computer-on-Mod
 
 SMARC 2.1 Carrier Board with M.2 Extension 
 
-![IMX8M-Plus](CarrierIntroduction.assets/IMX8M-Plus.jpg)
+<center>
+<img src="CarrierIntroduction.assets/IMX8M-Plus.jpg"   /> 
+</center>
+
 
 [Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/documentation/ADLINK-I-Pi-IMX8M-PLUS-Datasheet.pdf)
 
@@ -111,4 +114,6 @@ strict revision control
 
 ### **Block Diagram** 
 
-![block_diagram](CarrierIntroduction.assets/block_diagram-1616579611776.PNG)
+<center>
+<img src="CarrierIntroduction.assets/block_diagram-1616579611776.PNG"   /> 
+</center>

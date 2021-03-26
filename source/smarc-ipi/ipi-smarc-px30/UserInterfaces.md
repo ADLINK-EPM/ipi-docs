@@ -6,7 +6,10 @@ title:  User Interfaces
 ## I-Pi SMARC with SMARC LEC-PX30 SoM
 
 
-![PX30](UserInterfaces.assets/PX30.jpg)
+<center>
+<img src="UserInterfaces.assets/PX30.jpg"  />
+</center>
+
 
 |      | Component           | Description                                                  |
 | ---- | :------------------ | ------------------------------------------------------------ |

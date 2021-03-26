@@ -5,8 +5,10 @@ Before going to the setup or installation chapter please verify the contents of 
 
 
 
-<img src="index.assets/box-content.png" alt="box-content" style="zoom:67%;" />
 
+<center>
+<img src="index.assets/box-content.png" alt="box-content" style="zoom:67%;" />
+</center>
 
 
 1. Industrial I-Pi SMARC development kit containing the carrier and SMARC LEC-PX30 SoM pre-assembled in a chassis
@@ -17,6 +19,7 @@ Before going to the setup or installation chapter please verify the contents of 
 <br>
 
 **Watch our unboxing video to find out more:**
+<center>
 <iframe
     width="640"
     height="480"
@@ -26,3 +29,4 @@ Before going to the setup or installation chapter please verify the contents of 
     allowfullscreen
 >
 </iframe>
+</center>

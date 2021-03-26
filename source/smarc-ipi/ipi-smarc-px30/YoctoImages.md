@@ -9,9 +9,9 @@ title: Yocto Linux Images
 ## Yocto Dunfell with Xfce Desktop Environment
 
 Boot the system with the SD card placed in the slot located on the carrier, once booted you will see the login screen:
-
+<center>
 <img src="YoctoImages.assets/image-20210318171609056.png" alt="image-20210318171609056" style="zoom: 50%;" />
-
+</center>
 <br>
 
 ### Binary Image download Link

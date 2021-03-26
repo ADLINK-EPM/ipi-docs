@@ -3,14 +3,12 @@ title: Module Introduction
 
 # LEC-PX30
 
-
-
 <img src="ModuleIntroduction.assets/SMARC-module-logo_500px.jpg" alt="SMARC – SGET" style="zoom: 50%;" />
 
 
-
-![LEC-PX30–SMARC–ADLINK](https://cdn.adlinktech.com/webupd/products/images/1790/LEC-PX30_L45.jpg)
-
+<center>
+<img src="https://cdn.adlinktech.com/webupd/products/images/1790/LEC-PX30_L45.jpg" alt="SMARC – LEC-PX30"  />
+</center>
 
 
 ## The SMARC Formfactor

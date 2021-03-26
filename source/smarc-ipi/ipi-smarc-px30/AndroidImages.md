@@ -10,9 +10,9 @@ title: Android Images
 Boot up the system from the SD card, once booted you will see the following screen:
 
 
-
+<center>
 <img src="AndroidImages.assets/Screenshot_20200608-082418.png" alt="Screenshot_20200608-082418" style="zoom: 33%;" />
-
+</center>
 
 
 ### Binary Image download Link
@@ -63,4 +63,7 @@ Boot up the system from the SD card, once booted you will see the following scre
 
 **3D benchmark**
 
-![](AndroidImages.assets/benchmark-1594969675942.png)
+ 
+<center>
+<img src="AndroidImages.assets/benchmark-1594969675942.png" />
+</center>
