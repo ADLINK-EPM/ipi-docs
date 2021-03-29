@@ -1,5 +1,5 @@
-title: Introducing the I-Pi SMARC 
----
+## Introducing The I-Pi SMARC 
+
 
 
 When microcontroller development platforms like the Arduino and Raspberry Pi (RPi) first appeared on the scene circa 2005 and 2012, respectively, they were generally regarded as being of interest only to students, hobbyists, and makers.
