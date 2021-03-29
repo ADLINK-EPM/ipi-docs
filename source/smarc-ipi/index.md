@@ -1,4 +1,4 @@
-## Introducing The I-Pi SMARC 
+## Introducing the I-Pi SMARC 
 
 
 
