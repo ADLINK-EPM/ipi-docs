@@ -1,4 +1,4 @@
-Welcome to the era of Artificial Intelligence!!!
+## Welcome to the era of Artificial Intelligence!!!
 
 You most likely do not see AI at work, but it is almost everywhere these days. Man-made machine intelligence is making a huge difference. Within this decade, machine reasoning has gone from a sci-fi dream to a basic piece of our regular day-to-day existence. We use AI frameworks to communicate with our phones through Siri and Alexa, vehicles like Tesla's decipher and examine their environmental factors to drive themselves, Amazon screens our perusing propensities and cleverly serves us up items it thinks we'd prefer to purchase, and even Google and YouTube chooses what sorts of query items we need. This is just the start, and one day we will glance back at AI and wonder about how it made our lives so easy and comfortable. 
 

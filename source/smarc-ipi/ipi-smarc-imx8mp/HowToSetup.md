@@ -1,5 +1,4 @@
-title: Quick start instructions 
----
+## Quick Start Instructions 
 
 - Install the provided SD card into the SD card slot or you can also start with prebuilt image, which is booted in emmc
 
