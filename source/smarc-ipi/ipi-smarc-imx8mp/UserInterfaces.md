@@ -14,6 +14,7 @@
 
 
 ## 40-Pin RPI Compatible Expansion Header (1)
+<table style="width: 100%;">
 <center>
 
 | Function     | MRAA   Number | MRAA  number | Function |
@@ -40,9 +41,9 @@
 | GND          | 39            | 40           | GPIO 21  |
 
 </center>
-
+</table>
 ## 40-Pin Expansion Header(2)
-
+<table style="width: 100%;">
 <center>
 
 | Function       | Pin Number | Pin number | Function      |
@@ -69,7 +70,7 @@
 | NC             | 39         | 40         | NC            |
 
 </center>
-
+</table>
 **Connector Pinout and Signal Descriptions**
 
 <center>

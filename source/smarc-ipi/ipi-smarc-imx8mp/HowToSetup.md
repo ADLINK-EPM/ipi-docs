@@ -15,7 +15,7 @@
 **Watch our unboxing video to find more**:
 <center>
 <iframe
-    width="640"
+    width="100%"
     height="480"
     src="https://www.youtube.com/embed/Axp5oOVpnDE"
     frameborder="0"

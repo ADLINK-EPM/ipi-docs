@@ -10,7 +10,7 @@ This kit can also be called as Industrial-Prototyping for IoT/AIoT and a small s
 **Watch our unboxing video to find more**:
 <center>
 <iframe
-    width="640"
+    width="100%"
     height="480"
     src="https://www.youtube.com/embed/NIFb8UUziEA"
     frameborder="0"
