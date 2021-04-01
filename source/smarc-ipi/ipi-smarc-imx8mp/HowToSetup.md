@@ -1,5 +1,7 @@
 ## Quick Start Instructions 
 
+<div class = "bullets">
+
 - Install the provided SD card into the SD card slot or you can also start with prebuilt image, which is booted in emmc
 
 - Connect the mouse, keyboard, HDMI display and LAN cable
@@ -24,4 +26,16 @@
 >
 </iframe>
 </center>
+
+
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
 

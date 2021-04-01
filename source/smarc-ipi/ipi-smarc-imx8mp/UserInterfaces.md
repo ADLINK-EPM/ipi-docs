@@ -104,7 +104,9 @@
 
 ## LVDS Pin Header 1
 
-<center style="width: 100%;">
+<table id="dtDynamicVerticalScrollExample">
+
+<center style="width: 100%; ">
 
 | Function           | Pin Number | Pin Number | Function                |
 | ------------------ | ---------- | ---------- | ----------------------- |
@@ -125,3 +127,7 @@
 | GND                | 30         | 29         | GND                     |
 
 </center>
+
+
+</table>
+
