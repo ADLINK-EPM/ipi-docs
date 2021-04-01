@@ -1,9 +1,7 @@
-title: How to Build Ubuntu 
----
+<div class = "bullets">
 
+## How to Build Ubuntu 
 The procedure to describes how to create Ubuntu image with SD Card on **LEC-PX30 with Industrial Pi-SMARC**. The version of Ubuntu used is 18.04.3 LTS. 
-
-
 
 ##   Recommended Hardware
 
@@ -134,7 +132,7 @@ The procedure is to replace buildroot rootfs image with Ubuntu's one.
        ```
     $ echo ‘adlink’ > /etc/hostname
        ```
-    
+  
 10. Add host entry in `/etc/hosts`
 
     ```
@@ -403,4 +401,15 @@ After finish step 3, get your SD card to connect to the development Linux Host P
     
     
 #### Note:  The first boot may take over 5 minutes for the desktop screen to appear.
+
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
 

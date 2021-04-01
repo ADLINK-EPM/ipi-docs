@@ -4,6 +4,7 @@ title: Yocto Linux Images
 <img align="right" src="YoctoImages.assets/yocto_project_eebe407216.png"  />
 
 <br>
+<div class = "bullets">
 
 
 ## Yocto Dunfell with Xfce Desktop Environment
@@ -35,9 +36,9 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 
 **Note:**
 
-  1. Auto-login is enabled and no need to enter password     
-  2. Please refer to [here](HowToFlashImage.html#Flash-a-Yocto-or-Android-Image) to guide you how to flash image to SD card
-  3. Boot selector in I-Pi board won't work due to the design of [PX30 booting procedure](PX30BootFlow.html)
+  1 .  Auto-login is enabled and no need to enter password.     
+  2. Please refer to [here](HowToFlashImage.html#Flash-a-Yocto-or-Android-Image) to guide you how to flash image to SD card.
+  3. Boot selector in I-Pi board won't work due to the design of [PX30 booting procedure](PX30BootFlow.html).
 
 <br/>
 
@@ -68,3 +69,13 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 
 <br>
 
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>

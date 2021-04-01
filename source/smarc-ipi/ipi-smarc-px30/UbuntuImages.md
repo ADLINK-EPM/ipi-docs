@@ -1,9 +1,11 @@
 title: Ubuntu Images
 ---
 
-<img align="right" src="UbuntuImages.assets/ubuntu_logo.png" width="200" />
+<img align="right" src="UbuntuImages.assets/ubuntu_logo_hex.png" width="200" />
 
 <br>
+
+<div class = "bullets">
 
 
  ## Ubuntu Bionic 18.04 LTS Xfce Desktop Environment
@@ -39,9 +41,9 @@ Ubuntu is not available for download but has to be compiled by the user himself,
 
 **Note**: 
 
-  1. Auto-login is enabled and no need to enter password  
-  2. Please refer to [here](HowToFlashImage.html#Flash-a-Ubuntu-Debian-Image) to guide you how to flash image to SD card
-  3. Boot selector in I-Pi board won't work due to the design of [PX30 booting procedure](PX30BootFlow.html)
+1. Auto-login is enabled and no need to enter password. 
+2. Please refer to [here](HowToFlashImage.html#Flash-a-Ubuntu-Debian-Image) to guide you how to flash image to SD card.
+3. Boot selector in I-Pi board won't work due to the design of [PX30 booting procedure](PX30BootFlow.html).
 
   <br />
 
@@ -74,6 +76,17 @@ Ubuntu is not available for download but has to be compiled by the user himself,
 
 
 <br>
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
+
 
 **Running glmark2-es2 program to benchmark for Mali-G31 with x11**
 <center>

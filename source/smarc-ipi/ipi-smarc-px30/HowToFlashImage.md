@@ -1,6 +1,8 @@
 title: How to Flash an Image to the SD Card
 ---
+<div class = "bullets">
 
+## How to Flash an Image to the SD Card
 The procedure describes how to flash an **Ubuntu/Debian/Yocto** image including u-boot, Linux kernel and filesystem to the SD Card.
 
 * [Flash the Ubuntu/Debian Image](#Flash-a-Ubuntu-Debian-Image)
@@ -41,7 +43,7 @@ The procedure describes how to flash an **Ubuntu/Debian/Yocto** image including 
 ### Linux Host
 
 1. Copy the prebuilt bootable Ubuntu image to the working directory on your development host. Insert an empty SD Card into the development host and enter the following command to copy the .img to the SD Card.
-   
+  
    **Warning**: Make sure you first properly identify the SD Card device name as for example /dev/sdb or /dev/sdc. For example insert the SD Card and than check device name with dmesg. Data loss may result if written to the wrong device or in the worst case you kill your hosts OS.  
    
    ```
@@ -98,4 +100,17 @@ then, click the **Create** button to start the process.
 
 
 **Note**: There is no need to configure the boot selector of the **LEC-PX30 with Industrial-Pi** for booting from the SD Card. You can directly insert the SD card and power on the system.
+
+
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
+
 

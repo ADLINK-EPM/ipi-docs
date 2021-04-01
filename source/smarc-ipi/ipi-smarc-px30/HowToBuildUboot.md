@@ -1,6 +1,6 @@
-title: How to Build and Install custom U-boot
----
+<div class = "bullets">
 
+## How to Build and Install custom U-boot
 Building U-boot on I-Pi SMARC using the LEC-PX30 SMARC module and downloading to the SDcard
 
 
@@ -47,8 +47,8 @@ Building U-boot on I-Pi SMARC using the LEC-PX30 SMARC module and downloading to
    1. **px30_loader**_vx.xx.xxx.bin 
       this is the Rockchip miniloader flash install it to the miniloader partition on the target. 
 
-   * **trust.img**: ARM Trusted Firmware, Please flash this binary to trust partition
-   * **uboot.img**: The U-Boot image, Please flash this binary to uboot partition
+   *  **trust.img**: ARM Trusted Firmware, Please flash this binary to trust partition
+   *  **uboot.img**: The U-Boot image, Please flash this binary to uboot partition
 
    ```
    u-boot/
@@ -57,6 +57,17 @@ Building U-boot on I-Pi SMARC using the LEC-PX30 SMARC module and downloading to
    └── uboot.img
    ```
 
+
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
 
 
 

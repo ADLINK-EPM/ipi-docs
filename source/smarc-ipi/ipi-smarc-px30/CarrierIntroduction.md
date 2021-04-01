@@ -19,11 +19,13 @@ title: Carrier Board Introduction
 
 <br>
 
-### **Features**
+**Features**
 
-*  SMARC revision 2.1 compliant
+<div class = "check">
 
-* LVDS, DSI and HDMI graphic output interfaces 
+* SMARC revision 2.1 compliant.    
+
+* LVDS, DSI and HDMI graphic output interfaces.  
 
 * Dual GbE ports and USB 2.0 / USB 3.0 interfaces
 
@@ -36,6 +38,12 @@ title: Carrier Board Introduction
 * 10 year product availability
 
   <br>
+
+
+
+
+
+
 
 ### **Specifications**
 
@@ -97,6 +105,12 @@ title: Carrier Board Introduction
     * Thermal Stress, Vibration Stress, Thermal Shock and Combined Test
 
       <br>
+</div>
+<style>
+.check li {
+    list-style-type: disc;
+ }
+</style>
 
 ### **Block Diagram**
 <center>

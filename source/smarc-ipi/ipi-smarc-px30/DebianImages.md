@@ -1,6 +1,6 @@
 title: Debian Image
 ---
-
+<div class = "bullets">
 
 <img align="right" src="DebianImages.assets/debian-logo.jpg" width ="150"/>
 
@@ -13,7 +13,7 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 ​       **Note:** The kernel used is not Debian native. Debian rootfs image which is bootstrapped by the PX30 u-boot & Kernel.
 
 <br/>
-
+<div class = "bullets">
 ### Binary Image download Link
 
 * Debian 10 Buster with XFCE desktop + MRAA/UPM (size of compressed file: 1.57 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-PX30/Images/Debian/LEC-PX30-IPi-SMARC-Debian10-xfce-2v7-20210219.zip)
@@ -37,9 +37,10 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 
    **Note**: 
 
-  1. Auto-login is enabled and no need to enter password   
-  2. Please refer to [here](HowToFlashImage.html#Flash-a-Ubuntu-Debian-Image) to guide you how to flash image to SD card
-  3. Boot selector in I-Pi board won't work due to the design of [PX30 booting procedure](PX30BootFlow.html)
+1. Auto-login is enabled and no need to enter password   
+2. Please refer to [here](HowToFlashImage.html#Flash-a-Ubuntu-Debian-Image) to guide you how to flash image to SD card
+3. Boot selector in I-Pi board won't work due to the design of [PX30 booting procedure](PX30BootFlow.html)
+
 
 <br>
 
@@ -68,6 +69,20 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 * WIFI/BT USB Dongle ([EW-7611ULB datasheet](https://www.edimax.com/edimax/mw/cufiles/files/download/datasheet/EW-7611ULB_datasheet_English.pdf))
 
  <br>
+
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
+
+
+
 
 **Running glmark2-es2 program to benchmark for Mali-G31 with x11**
 <center>

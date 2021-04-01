@@ -1,5 +1,6 @@
-title: How to Build Debian
----
+## How to Build Debian
+
+<div class = "bullets">
 
 This procedure describes how to create a Debian SD Card image for **LEC-PX30 with Industrial I-Pi SMARC**. The version of Debian used is 10 (buster).
 
@@ -160,7 +161,7 @@ These steps are detailed below.
      ```shell
     $ sync
     $ exit
-     ```
+    ```
 
 
 
@@ -400,4 +401,18 @@ $ sync
 Eject the SD card. You can directly insert SD card and power on the system to boot using the SD card.
 
 After boot, login to **px30** user using password set in adduser command.
+
+
+
+
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
 

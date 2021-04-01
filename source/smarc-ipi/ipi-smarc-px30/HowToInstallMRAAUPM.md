@@ -1,5 +1,7 @@
-title: What is MRAA/UPM 
----
+<div class = "bullets">
+
+## What is MRAA/UPM 
+
 
 Eclipse MRAA/UPM is a C/C++ library with bindings to Java, Python and JavaScript to interface with the IO, with a structured and sensors API where port names/numbering matches the board that you are on. Use of libmraa does not tie you to specific hardware with board detection done at runtime you can create portable code that will work across the supported platforms.
 
@@ -218,4 +220,17 @@ $ sudo ldconfig
 ### Yocto
 
 Intel mraa recipe is [here](http://git.yoctoproject.org/cgit/cgit.cgi/meta-intel-iot-middleware/tree/recipes-devtools?h=daisy) and please add it to your building Yocto.
+
+
+
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
 

@@ -5,6 +5,8 @@ title: Android Images
 
 <br>
 
+<div class = "bullets">
+
 ## Android 10
 
 Boot up the system from the SD card, once booted you will see the following screen:
@@ -37,14 +39,14 @@ Boot up the system from the SD card, once booted you will see the following scre
 
 **Note**:
 
-1. Please find  [here](HowToFlashImage.html#Flash-a-Yocto-or-Android-Image) a description how to flash an image to the SD card
-2. Note that the SMARC boot device selector on the carrier does not work in conjunction with LEC-PX30 due to the design of [PX30 SOC boot order](PX30BootFlow.html)
+ 1. Please find  [here](HowToFlashImage.html#Flash-a-Yocto-or-Android-Image) a description how to flash an image to the SD card
+ 2. Note that the SMARC boot device selector on the carrier does not work in conjunction with LEC-PX30 due to the design of [PX30 SOC boot order](PX30BootFlow.html)
 
 <br>
 
 ### Android supported features & interfaces 
 
-* Linux kernel version 4.19
+*  Linux kernel version 4.19
 * Support H.265, H.264, MPEG-4, VP8, and VC-1 video codec with up to 1080p60fps
 * 2D / 3D Graphics Acceleration [with Arm Mali-G31 GPU](https://developer.arm.com/ip-products/graphics-and-multimedia/mali-gpus/mali-g31-gpu) 
 * 4x USB 2.0 ports
@@ -63,7 +65,20 @@ Boot up the system from the SD card, once booted you will see the following scre
 
 **3D benchmark**
 
- 
+
 <center>
 <img src="AndroidImages.assets/benchmark-1594969675942.png" />
 </center>
+
+
+
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
