@@ -106,11 +106,7 @@ title: Carrier Board Introduction
 
       <br>
 </div>
-<style>
-.check li {
-    list-style-type: disc;
- }
-</style>
+
 
 ### **Block Diagram**
 <center>

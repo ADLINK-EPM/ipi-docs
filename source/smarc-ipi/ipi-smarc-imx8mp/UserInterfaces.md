@@ -44,7 +44,11 @@
 
 ## 40-Pin Expansion Header(2)
 
-<center style="width: 100%;">
+
+
+<center>
+
+<div  class="table-wrapper" markdown="block">
 
 | Function       | Pin Number | Pin number | Function      |
 | -------------- | ---------- | ---------- | ------------- |
@@ -69,7 +73,9 @@
 | NC             | 37         | 38         | NC            |
 | NC             | 39         | 40         | NC            |
 
+</div>
 </center>
+
 
 **Connector Pinout and Signal Descriptions**
 
@@ -79,8 +85,8 @@
 
 
 ## LVDS Pin Header 0
-
-<center style="width: 100%;">
+<div  class="table-wrapper" markdown="block">
+<center>
 
 | Function           | Pin Number | Pin Number | Function                |
 | ------------------ | ---------- | ---------- | ----------------------- |
@@ -102,11 +108,14 @@
 
 </center>
 
+</div>
+
 ## LVDS Pin Header 1
 
-<table id="dtDynamicVerticalScrollExample">
 
-<center style="width: 100%; ">
+<div  class="table-wrapper" markdown="block">
+
+<center>
 
 | Function           | Pin Number | Pin Number | Function                |
 | ------------------ | ---------- | ---------- | ----------------------- |
@@ -128,6 +137,9 @@
 
 </center>
 
+</div>
 
-</table>
+
+
+
 

@@ -61,13 +61,10 @@ title:  User Interfaces
 
 </div>
 
-**Note:** The 40 pin header is compatible with Raspberry PI HAT's and is accessible via the MRAA library 
+**Note:** The 40 pin header is compatible with Raspberry PI HAT's and is accessible via the MRAA library.
 
-<style>
-.table-wrapper {
-  overflow-x: scroll;
-}
-</style>
+
+
 
 ## **Power Supply**
 
