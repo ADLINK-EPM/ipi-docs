@@ -5,7 +5,7 @@ title: Yocto Linux Images
 
 <br>
 
-**Yocto image will be ready by the end of March**
+**Yocto image will be ready by the end of April**
 
 
 　
