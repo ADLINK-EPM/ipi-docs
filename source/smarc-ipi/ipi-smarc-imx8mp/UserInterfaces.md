@@ -140,6 +140,10 @@
 </div>
 
 
-
+<style>
+.table-wrapper {
+  overflow-x: scroll;
+}
+</style>
 
 

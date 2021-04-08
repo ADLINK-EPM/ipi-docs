@@ -101,8 +101,16 @@ then, click the **Create** button to start the process.
 
 **Note**: There is no need to configure the boot selector of the **LEC-PX30 with Industrial-Pi** for booting from the SD Card. You can directly insert the SD card and power on the system.
 
-
 </div>
 
+<styel>
 
+ .bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+
+</style>
 

@@ -112,3 +112,11 @@ title: Carrier Board Introduction
 <center>
 <img src="CarrierIntroduction.assets/image-20201013151208316.png" alt="image-20201013151208316" style="zoom:80%;" />
 </center>
+
+<style>
+
+.check li {
+    list-style-type: disc;
+ }
+
+<style>

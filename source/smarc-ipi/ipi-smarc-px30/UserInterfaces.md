@@ -61,6 +61,12 @@ title:  User Interfaces
 
 </div>
 
+<style>
+.table-wrapper {
+  overflow-x: scroll;
+}
+</style>
+
 **Note:** The 40 pin header is compatible with Raspberry PI HAT's and is accessible via the MRAA library.
 
 
