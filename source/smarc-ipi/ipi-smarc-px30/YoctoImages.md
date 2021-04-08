@@ -7,7 +7,7 @@ title: Yocto Linux Images
 <div class = "bullets">
 
 
-## Yocto Dunfell with Xfce Desktop Environment
+## Yocto Dunfell with XFCE Desktop Environment
 
 Boot the system with the SD card placed in the slot located on the carrier, once booted you will see the login screen:
 <center>
@@ -15,7 +15,7 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 </center>
 <br>
 
-### Binary Image download Link
+### Binary Image Download Link
 * Yocto Dunfell with XFCE Desktop + MRAA/UPM (size of compressed file: 298 MB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/public/SMARC/LEC-PX30/Images/Yocto/LEC-PX30-IPi-SMARC_Yocto-Zeus-v2.4_SD_20200909.zip)
 
 * All versions: <a data-toggle="collapse" data-target="#demo" href="#">click here</a>

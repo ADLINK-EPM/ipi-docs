@@ -33,7 +33,7 @@ title:  User Interfaces
 
 
 ## 40 Pin Expansion Header Pin-Out
-<div class="foo"  style='width: 100%;'>
+<div  class="table-wrapper" markdown="block">
 
 
 | Linux GPIO (/sys/class/gpio) | Function  | MRAA number | MRAA number | Function  | Linux GPIO (/sys/class/gpio) |
@@ -63,7 +63,11 @@ title:  User Interfaces
 
 **Note:** The 40 pin header is compatible with Raspberry PI HAT's and is accessible via the MRAA library 
 
-
+<style>
+.table-wrapper {
+  overflow-x: scroll;
+}
+</style>
 
 ## **Power Supply**
 
