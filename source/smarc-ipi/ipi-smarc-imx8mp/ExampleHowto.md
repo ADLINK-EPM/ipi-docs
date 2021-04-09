@@ -1,6 +1,6 @@
 title: Examples & How-to
 ---
-***Coming Soon**
+***Coming Soon***
 
 
 
