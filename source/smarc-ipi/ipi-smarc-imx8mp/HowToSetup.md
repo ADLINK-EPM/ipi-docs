@@ -2,19 +2,19 @@
 
 <div class = "bullets">
 
-- Install the provided SD card into the SD card slot or you can also start with prebuilt image, which is booted in emmc
+* Download the prebuilt image of your choice (Yocto/Ubuntu/Android/Debian) from our downloads page into your host computer [click here](https://www.ipi.wiki/pages/downloads-imx8mplus)
 
-- Connect the mouse, keyboard, HDMI display and LAN cable
+* Connect the power cable, mouse, keyboard, HDMI cable and LAN cable to the target board
+	
+* Connect micro USB OTG cable from target board to the host device
 
-- Connect the power supply
-
-- Press the power button 
-
-- The boot screen should be visible on the connected display
+* The target board will be detected as USB device in the host computer, where you can boot the prebuilt image
+	
+* After successful booting, the Wayland desktop screen should be visible on the connected display
 
   <br>
 
-**Watch our unboxing video to find more**:
+**Watch our video on quick start connections out of the box**:
 <center>
 <iframe
     width="100%"

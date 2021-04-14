@@ -29,7 +29,7 @@ smarc-ipi:
     Module Introduction: /smarc-ipi/ipi-smarc-imx8mp/ModuleIntroduction.html
     Carrier Introduction: /smarc-ipi/ipi-smarc-imx8mp/CarrierIntroduction.html
     Software Documentation:
-    Yocto: /smarc-ipi/ipi-smarc-imx8mp/YoctoImages.html
+    Debian: /smarc-ipi/ipi-smarc-imx8mp/DebianImages.html
     Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/UbuntuImages.html
     Android: /smarc-ipi/ipi-smarc-imx8mp/AndroidImages.html
     Software Guideline:

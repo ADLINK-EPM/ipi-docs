@@ -1,11 +1,19 @@
 ## What's inside the box
 
-This kit can also be called as Industrial-Prototyping for IoT/AIoT and a small size AI inferencing computer for developers. Follow our guide to build and develop cool practical AI applications. After analyzing the enormous AI applications on this module, developers also named it as AIOM which stands for AI-on-Module.  Before going to the setup or installation, please verify the contents of your package. Following items should be part of the kit.
+Before going to the setup or installation chapter please verify the contents of your package. Following items should be part of the kit. The standard set of Industrial Pi SMARC includes the following items:
+
+1. I-Pi SMARC IMX8M Plus CoM pre-assembled in a chassis.
+2. 19.0V DC /2.37A 45.0W Power adapter.
+3. Micro USB cable for OTG connection.
+4. Power cord.
+
 
 <center>
 <img src="UnBoxing.assets/unboxing-1616487924420.PNG"   />
 </center>
 <br>
+
+
 
 **Watch our unboxing video to find more**:
 <center>

@@ -1,7 +1,8 @@
-#  I-Pi-SMARC with SMARC IMX8M Plus SoM
+#  I-Pi SMARC with SMARC IMX8M Plus CoM
 
 <center>
-<img src="UserInterfaces.assets/IMX8M-Plus.jpg" /> 
+<img src="UserInterfaces.assets/I-Pi-SMARC-IMX8M-Plus-interfaces-B.jpg" /> 
+<img src="UserInterfaces.assets/I-Pi-SMARC-IMX8M-Plus-interfaces-A.png" /> 
 </center>
 
 
