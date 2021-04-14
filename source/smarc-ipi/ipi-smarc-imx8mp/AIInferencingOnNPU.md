@@ -93,7 +93,9 @@ Also check our Tutorials about how to use Transfer Learning (insert the link for
 
 ## Use Cases and Benchmark
 
-For better understanding on NPU inferencing on I-Pi SMARC IMX8M Plus, results of use cases are tabulated for easy understanding
+For better understanding on NPU inferencing on I-Pi SMARC IMX8M Plus, results of use cases are tabulated for easy understanding.
+<center>
+<div  class="table-wrapper" markdown="block">
 
 | SI.No |             Model             |            Algorithm             | Inference Engine | NPU Inferencing(ms) | CPU Inferencing(ms) |
 | ----- | :---------------------------: | :------------------------------: | :--------------: | :-----------------: | :-----------------: |
@@ -107,6 +109,9 @@ For better understanding on NPU inferencing on I-Pi SMARC IMX8M Plus, results of
 
 The above histogram clearly shows the difference of NPU and CPU inferencing on I-Pi SMARC IMX8M Plus
 
+</div>
+
+</center>
 
 <center>
 <img src="AIInferencingOnNPU.assets/fig6.PNG"   /> 
@@ -154,8 +159,29 @@ I-Pi SMARC IMX8M Plus can be used for various applications such as gaming & comp
 
 ### Demos 
 
-video link and preview
+<center>
+<iframe
+    width="100%"
+    height="480"
+    src="https://www.youtube.com/embed/WkdLgFr4_hw"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+</center>
 
+<center>
+<iframe
+    width="100%"
+    height="480"
+    src="https://www.youtube.com/embed/0a_iCahPTmE"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+</center>
 
 
 ## Reference:
@@ -175,8 +201,9 @@ video link and preview
  .bullets ol li {
     list-style-type: decimal;
  }
+ .table-wrapper {
+  overflow-x: scroll;
+}
 </style>
-
-
 
 
