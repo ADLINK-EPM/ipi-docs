@@ -34,6 +34,8 @@ smarc-ipi:
     Yocto: /smarc-ipi/ipi-smarc-imx8mp//YoctoImages.html
     Android: /smarc-ipi/ipi-smarc-imx8mp/AndroidImages.html
     Software Guideline:
+    How to Build Yocto: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildYocto.html
+    How to Build Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildUbuntu.html
     Examples & How-to: /smarc-ipi/ipi-smarc-imx8mp/ExampleHowto.html
     AI Inferencing on NPU:
     AI Inferencing: /smarc-ipi/ipi-smarc-imx8mp/AIInferencingOnNPU.html
