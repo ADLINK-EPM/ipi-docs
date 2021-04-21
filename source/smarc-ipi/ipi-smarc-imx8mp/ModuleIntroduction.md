@@ -6,7 +6,7 @@ title: Module Introduction
 <img src="ModuleIntroduction.assets/MicrosoftTeams-image_new.png" alt="SMARC-module-logo_500px"  /> 
 </center>
 
-[Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/documentation/LEC-IMX8MP-datasheet-preliminary-20210128.pdf)
+[Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/documentation/LEC-IMX8MP-datasheet-preliminary-20210128_new.pdf)
 
 <br>
 
