@@ -152,11 +152,11 @@
 | Interface          | Setting |
 | ------------------ | ---------- |
 | Can Bus             | on = Terminanated 120 Ohm          |
-| LVDS backlight  | 1 ~ 3 = 5V \| 3 ~ 5 = 3,3V    |
-| SPI1 voltage  | 1 ~ 2 1,8V  \| 2 ~ 3, 3,3V |
+| LVDS Backlight | 1 ~ 3 = 5V \| 3 ~ 5 = 3,3V    |
+| SPI1 Voltage | 1 ~ 2  1,8V  \| 2 ~ 3 3,3V |
 | USB Mux     | 36 ~ 38 = M.2  \| 38 ~ 40 = USB |
-| HDMI coupling       | 35~39 = DC         |
-| SMARC Power Seq              | ON = 2,1     OFF = 2,0     |
+| HDMI Coupling      | 35~39 = AC  \| 37 ~ 39 = DC |
+| SMARC Power Seq              | ON = 2,1  \| OFF = 2,0    |
 
 </center>
 
