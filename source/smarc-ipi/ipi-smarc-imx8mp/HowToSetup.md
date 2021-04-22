@@ -29,4 +29,11 @@
 
 
 </div>
-
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+ </style>

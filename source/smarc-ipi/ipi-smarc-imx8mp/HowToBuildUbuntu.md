@@ -293,7 +293,14 @@ $ sudo umount$HOME/sd_temp
     You can directly insert SD card into the target board and boot using the SD card.
 
 </div>
-
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+ </style>
 
 
 
