@@ -1,8 +1,7 @@
 # How to Build Ubuntu
 
-This procedure describes how to create Ubuntu image with SD Card for I-Pi SMARC IMX8M Plus with 2G/4G Memory. The version of Ubuntu used is 20.04 (Focal Fossa)
-
-<br>
+<div class = "bullets">
+This procedure describes how to create Ubuntu image with SD Card for I-Pi SMARC IMX8M Plus with 2G/4G Memory. The version of Ubuntu used is 20.04 (Focal Fossa).
 
 ## Recommended Hardware
 
@@ -292,5 +291,9 @@ $ sudo umount$HOME/sd_temp
 13. Eject the SD card. 
 
     You can directly insert SD card into the target board and boot using the SD card.
+
+</div>
+
+
 
 

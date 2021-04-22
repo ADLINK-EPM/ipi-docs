@@ -9,6 +9,7 @@ title: Module Introduction
 [Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/documentation/LEC-IMX8MP-datasheet-preliminary-20210128_new.pdf)
 
 <br>
+<div class = "bullets">
 
 ## The SMARC Formfactor
 
@@ -62,19 +63,27 @@ available online at : <https://www.sget.org/standards/smarc.html>
    True random number generation (RNG)
    Manufacturing protection support / Secure Non-Volatile Storage (SNVS)
 
+**TPM**
+
+​	Optional TPM 2.0 security
+
 **MIPI-DSI**
    1x MIPI-DSI 4 lanes
 **Cameras**
-   1x MIPI-CSI dual lane interface
-   1x MIPI-CSI quad lane interface
+MIPI-CSI RX Interface
+	 Compatible with the MIPI Alliance Interface specification v1.0 
+	 Up to 4 data lanes, 1.0Gbps maximum data rate per lane 
+	 Supports MIPI-HS, MIPI-LP mode
+1x MIPI-CSI dual lane interface
+1x MIPI-CSI quad lane interface
 
 ### Video
 
 **GPU Core**
-   Vivante GC7000UL 3D GC520L 2D
+   Vivante GC7000UL 
 **GPU Feature Support**
-   GC7000UL (2 shaders), OpenGL ES 1.1, 2.9, 3.0, Vulkan,
-   OpenCL 1.2; GC380 (2D) and OpenGL 3.0
+   GC7000UL (2 shaders), OpenGL ES 2.0/3.0/3.1, Vulkan, 
+	OpenCL 1.2; GC380 (2D)
 
 **VPU Feature Support**
    1080p60 VP9 Profile 0, 2 (10 bit) decoder (Hantro G2),
@@ -100,7 +109,7 @@ available online at : <https://www.sget.org/standards/smarc.html>
 
 **LVDS**
 
-   LVDS single/dual channel 24-bit at max. 1920 ×1080 at 60 Hz 
+   Dual Channel LVDS port 18/24 bit 
 
 **Camera support**
 
@@ -109,125 +118,101 @@ available online at : <https://www.sget.org/standards/smarc.html>
    Two MIPI-CSI2 camera inputs, one 4-lane and one 2-lane
 
 ### Audio
-
-   Supports I2S audio codec interface, audio ADC and DAC (located on carrier)
+ **Audio Codec**
+   I2S audio codec (located on carrier)
 
 ### Dual Ethernet
-
 **Primary LAN**
 
-   Gigabit Ethernet controller with support for TSN in addition to Energy Efficient Ethernet (EEE), Ethernet   AVB, and IEEE 1588  
-
-   Supports 10/100/1000-Mbps data transfer rates, both full-duplex and half-duplex " 
+   MAC 10/100/1000 Ethernet Controller on SoC (TSN capable)
 
 **Secondary LAN**
 
-   Gigabit Ethernet controller with support for Energy Efficient Ethernet (EEE), Ethernet AVB, and IEEE 1588  
-
-   Supports 10/100/1000-Mbps data transfer rates, both full-duplex and half-duplex  
-
-### 1216 M.2 LGA WIFI (optional) 
-
-   LEC-IMX8MP can be equipped with an optional WIFI LGA module. 
-
-   In case of non-populated part, the footprint is still there and visible 
-
-   Only the Azurewave AW-CM276NF has been validated during DVT but other M.2 LGA modules could be   compatible as well if they use the same standard interfaces, following are the used interface  
-
-- SDIO0 (main WIFI interface) 
+   MAC 10/100/1000 Ethernet Controller on SoC
 
 
-- UART1 (main Bluetooth interface) 
 
-- PCM ( Bluetooth audio transfer interface ) 
+###  Wireless Communication
 
-  AW-CM276F has been pre-certified by Azurewave for several countries and regions, Adlink can assist in   final device certification if applicable 
+**Wi-Fi**
+IEEE 802.11 2X2 MIMO ac/a/b/g/n Wireless LAN 
 
-  FCC ID: UAY-W8997-M1216
+**Bluetooth**
+Bluetooth 5.0 complaint with Bluetooth 2.1+Enhanced Data Rate (EDR)
 
-### Extension busses
+### Extension Busses
 
 **PCIe**
 
-   Two PCI Express GEN2 x1 interfaces 
+   2x PCIe x1 Gen2.1 *
 
 **USB**
 
-   2x USB 3.0/2.0, 3x USB 2.0 and, 1x USB2.0 OTG
+   2x USB 3.0, 3x USB 2.0, 1x USB 2.0 OTG *
 
 **UART**
 
-   Four UART interface SER0, SER2 (Tx/Rx/CTS/RTS) and SER1, SER3(optional) (Tx/Rx)  
+   Three UART interfaces SER1 and SER 2 (CTS/RTS) / SER0 (TX/RX/CTS/RTS)
 
-   7- or 8-bit data words, 1 or 2 stop bits, programmable parity (even, odd, or none) 
+**CAN**
 
-   Programmable baud rates up to 4 Mbps
-
-**CAN bus**
-
-   Supporting dual CAN2.0B only or mixed CAN2.0B and CAN FB mode, data bit rate up to 8 Mbps  
+   2x CAN2.0B only or mixed CAN2.0B and CAN FD mode, data bit rate up to 8 Mbps
 
 **SPI**
 
    2x SPI
 
-**I2S**
+**I<sup>2</sup>S**
 
-   I2S interface< CODEC located on the carrier 
+   2x  I<sup>2</sup>S interfaces with audio resolution from 16-bits to 32-bits and sample rate up to 192KHz (see Audio Codec support)
 
-**I2C**
+**I<sup>2</sup>C**
+   Four I<sup>2</sup>C interfaces
 
-   5x I2C interfaces 
-
-- Support for 7-bit and 10-bit address mode 
-
-- Software programmable clock frequency of 100 kbit/s in Standard-mode, 
-
-  400 kbit/s in the Fast-mode or 1 Mbit/s in Fast-mode Plus 
+- Support for 7-bit and 10-bit address mode
+- Software programmable clock frequency of 100 kbit/s in Standard-mode, 400 kbit/s in the Fast-mode or 1 Mbit/s in Fast-mode Plus 
 
 **GPIO**
 
-   14x GPIO with interrupt 
+ 14x GPIO with interrupt, one GPIO with PWM 
+
 
 ### System Storage
 
 **SDIO**
 
-   1x SDIO (4-bit) compatible up to version 3.0.
+ 1x SDIO (4-bit) compatible with SD/SDIO standard, up to version 3.0
 
 **eMMC**
 
-   Soldered on module 16, 32 or 64GB (build option) either standard or -40+85C temp range 
+ 16, 32, 64 or 128 GB (build option)
+ Compatible with eMMC specifications 4.41, 4.51, 5.0 and 5.1
 
-   Compatible with eMMC specification 4.41, 4.51 and 5.0
+### SEMA® Board Controller
 
-### SEMA® Board Management Controller
+ Voltage/current monitoring, boot configuration, logistics and forensic 
 
-   Voltage/current monitoring, boot configuration, logistics and forensic 
-
-   information, flat panel control, watchdog timer 
+ information, flat panel control, watchdog timer 
 
 ### Debug Header
 
-   30-pin multipurpose flat cable connector for use with optional DB-30 debug module Provides JTAG, BMC    access; UART, power test points; diagnostic LEDs, Power, Reset, Boot configuration 
+ 30-pin multipurpose flat cable connector for use with optional DB-30 debug module
 
-### Boot Modes
-
-   eMMC and SD-Card boot modes are supported
+ Provides JTAG, BMC access; UART, power test points; diagnostic LEDs, Power, Reset, Boot configuration 
 
 ### Power
 
-**Supply Voltage**
+**Input**
 
-4.75 V – 5.25 V
+5Vdc +/- 5%
 
 ### Mechanical and Environmental
 
 **Form Factor**
 
-SGET SMARC Specifications v2.1
+SGET SMARC Specifications 2.1
 
-**Dimension**
+**Dimensions**
 
 SMARC short size module, 82mm x 50mm
 
@@ -245,7 +230,37 @@ Rugged: -20°C to +85°C (optional)
 
 **Shock and Vibration**
 
-IEC 60068-2-64 and IEC-60068-2-27, MIL-STD-202 F, Method 213B, Table 213-I,
+IEC 60068-2-64 and IEC-60068-2-27, MIL-STD-202 F, 
 
-Condition A and Method 214A, Table 214-I, Condition D
+Method 213B, Table 213-I, Condition A and Method 214A,
+
+Table 214-I, Condition D
+
+**HALT**
+
+Thermal Stress, Vibration Stress, Thermal Shock and Combined Test
+
+### Operating Systems 
+
+**Standard Support**
+
+Yocto Linux BSP, Android
+
+ **Extended Support (BSP)**
+ VxWorks
+ 
+ 
+</div>
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
+
+
+
 

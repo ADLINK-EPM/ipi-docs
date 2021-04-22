@@ -1,5 +1,6 @@
 # **How to Build Yocto**
 
+<div class = "bullets">
 The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture. This procedure will help you build Yocto image for **I-Pi SMARC IMX8M Plus**
 
 ## **1. Set up a build host environment:**
@@ -73,5 +74,7 @@ $ bitbake imx-image-multimedia
 ```shell
 $ bunzip2 -dk -f <image_name>.wic.bz2
 ```
+</div>
+
 
 

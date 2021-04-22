@@ -2,7 +2,6 @@ I-Pi SMARC Plus with SMARC 2.1 Carrier Board
 ===
 
 
-
 Industrial Prototyping Kit for IoT/AIoT with Off-the-Shelf SMARC Computer-on-Module
 
 SMARC 2.1 Carrier Board with M.2 Extension.
@@ -17,21 +16,22 @@ SMARC 2.1 Carrier Board with M.2 Extension.
 
 <br>
 
+<div class = "bullets">
 ### **Features**
-■ Equipped with SMARC 2.1 compliant, specially designed for
+
+*	Equipped with SMARC 2.1 compliant, specially designed for
 industrial embedded applications requiring long life, high MTBF and
 strict revision control
-■ Includes everything needed to go live in minutes
-■ Industrial grade quality and 15 year product availability
-■ Supports Android, Ubuntu and Yocto OS
-
+* Includes everything needed to go live in minutes
+* Industrial grade quality and 15 year product availability
+*  Supports Android, Ubuntu and Yocto OS
 <br>
 
 ### **Specifications**
 
 #### Graphics and Camera
 
-​    1x HDMI 1.4b / 2.0b 
+​	1x HDMI 1.4b / 2.0b 
 
 ​    1x eDP 1.3 (bom option) 
 
@@ -118,3 +118,14 @@ strict revision control
 <center>
 <img src="CarrierIntroduction.assets/block_diagram-1616579611776.PNG"   /> 
 </center>
+</div>
+
+
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
