@@ -64,7 +64,6 @@ available online at : <https://www.sget.org/standards/smarc.html>
    Manufacturing protection support / Secure Non-Volatile Storage (SNVS)
 
 **TPM**
-
 ​	Optional TPM 2.0 security
 
 **MIPI-DSI**
@@ -101,11 +100,11 @@ MIPI-CSI RX Interface
    2.3 TOP/s Neural Network performance
 
 **HDMI**
-   HDMI 2.0a supporting resolution up to 1920 × 1080 at 60 Hz 
+   HDMI 2.0a 
 
 **MIPI DSI**
 
-   DSI 4 lanes at max. 1080p@60fps display output (multiplexed with LVDS signal)
+   DSI 4 lanes
 
 **LVDS**
 
@@ -248,8 +247,8 @@ Yocto Linux BSP, Android
 
  **Extended Support (BSP)**
  VxWorks
- 
- 
+
+
 </div>
 
 <style>

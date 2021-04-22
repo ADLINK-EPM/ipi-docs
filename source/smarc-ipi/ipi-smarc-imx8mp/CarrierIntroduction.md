@@ -17,7 +17,9 @@ SMARC 2.1 Carrier Board with M.2 Extension.
 <br>
 
 <div class = "bullets">
-### **Features**
+
+###**Features**
+
 
 *	Equipped with SMARC 2.1 compliant, specially designed for
 industrial embedded applications requiring long life, high MTBF and
