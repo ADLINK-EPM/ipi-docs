@@ -161,7 +161,7 @@ $ sudo vim $HOME/imx8mp/rootfs/etc/neplan/01-network-manager-all.yaml
 
 18. Add the following content, then save it.
 
-​              #Let NetworkManager manage alldevices on this system
+​              # Let NetworkManager manage alldevices on this system
 
 ​                 **network:**
 
@@ -226,15 +226,13 @@ Note: GParted is a free partition editor for graphically managing your disk part
 
 3. Select SD card as highlighted in above corner in below picture
 
-   ![5](HowToBuildUbuntu/1.png) 
+   ![img](HowToBuildUbuntu/1.png) 
 
-   4. Select the rootfs partition and select resize option above. Partition 2 (/dev/sdc2) is the rootfs partition in below picture.
+4. Select the rootfs partition and select resize option above. Partition 2 (/dev/sdc2) is the rootfs partition in below picture.
 
-      
+  ![img](HowToBuildUbuntu/2.png)
 
-      ![5](HowToBuildUbuntu/2.png)
-
-   5. Size of rootfs before resize as shown below
+5. Size of rootfs before resize as shown below
 
 ![img](HowToBuildUbuntu/3.png)
 
