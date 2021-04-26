@@ -34,7 +34,7 @@ The following are the steps required to generate Ubuntu image for **I-Pi SMARC I
 **Step 2:** Downloading Yocto IMX8MP image
 **Step 3:** Replacing IMX8MP yocto image rootfs with Ubuntu 20.04 rootfs
 
-**Note:** Remember to download yocto image respective to memory. For example, Download 2G image, if you are building Ubuntu image for 2G memory and vice versa
+**Note:** Remember to download yocto image respective to memory. For example, Download 2G image, if you are building Ubuntu image for 2G memory and vice versa.
 
 <br>
 
@@ -206,7 +206,7 @@ $ sudo dd if=filename of=/dev/sdX bs=64M status=progress
 
 (where X will give mounted device id)
 
-###Step 3: Replacing IMX8MP yocto image rootfs with Ubuntu 20.04 rootfs###
+### Step 3: Replacing IMX8MP yocto image rootfs with Ubuntu 20.04 rootfs
 
 1. Unmount the mounted partitions
 
