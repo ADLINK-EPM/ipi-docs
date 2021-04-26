@@ -21,7 +21,7 @@ The Module PCBs have 314 edge fingers that mate with a low profile 314 pin 0.5 m
 
 The Modules are used as building blocks for portable and stationary embedded systems. The core CPU and support circuits, including DRAM, boot flash, power sequencing, CPU power supplies, GBE and a single channel LVDS display transmitter are concentrated on the Module. The Modules are used with application specific Carrier Boards that implement other features such as audio CODECs, touch controllers, wireless devices, etc. The modular approach allows scalability, fast time to market and upgradability while still maintaining low costs, low power and small physical size.
 
-![logo](ModuleIntroduction.assets/logo.png)
+<img src="ModuleIntroduction.assets/logo.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 SMARC module and carrier specifications are
 

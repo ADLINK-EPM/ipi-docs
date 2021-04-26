@@ -1,12 +1,13 @@
 #  I-Pi SMARC with SMARC IMX8M Plus CoM
 
-<center>
-<img src="UserInterfaces.assets/I-Pi-SMARC-IMX8M-Plus-interfaces-B.jpg" /> 
-<img src="UserInterfaces.assets/I-Pi-SMARC-IMX8M-Plus-interfaces-A.png" /> 
-</center>
+<img src="UserInterfaces.assets/I-Pi-SMARC-IMX8M-Plus-interfaces-B.jpg" alt="SMARC-module-logo_500px" style="zoom:67%; margin-left: auto; margin-right: auto; display: block; " /> 
+<img src="UserInterfaces.assets/I-Pi-SMARC-IMX8M-Plus-interfaces-A.png" alt="SMARC-module-logo_500px" style="zoom:67%; margin-left: auto; margin-right: auto; display: block; " /> 
 
 
-**40-Pin Expansion Headers:**
+
+
+
+### 40-Pin Expansion Headers:
 
 <center>
 <img src="UserInterfaces.assets/40-pins.png" /> 
@@ -78,7 +79,7 @@
 </center>
 
 
-**Connector Pinout and Signal Descriptions**
+### Connector Pinout and Signal Descriptions
 
 <center>
 <img src="UserInterfaces.assets/LVDS.png" /> 
@@ -141,7 +142,7 @@
 </div>
 
 
-**Jumper Settings**
+### Jumper Settings
 
 <center>
 <img src="UserInterfaces.assets/jumper.png" /> 
