@@ -12,8 +12,7 @@ SMARC 2.1 Carrier Board with M.2 Extension.
 
 
 
-
-[Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/documentation/ADLINK-I-Pi-IMX8M-PLUS-Datasheet.pdf)
+[Download Datasheet](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/documentation/I-Pi-SMARC-IMX8M-Plus-datasheet-20210427.pdf)
 
 <br>
 
