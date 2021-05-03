@@ -1,17 +1,17 @@
 <img src="UbuntuImages.assets\ubuntu_logo_hex.png" alt="ubuntu_logo_hex" style="zoom:50%;" align="right" />
 
+
 # Ubuntu Focal Fossa 20.04 LTS Wayland Desktop Environment
 
 <div class= "bullets">
 Boot the system with the SD card placed in the slot located on the carrier, once booted you will see the login screen
-
-![Screenshot 2021-04-07 13-47-26](UbuntuImages.assets\Screenshot_1.png)
+<img src="UbuntuImages.assets\Screenshot_1.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 Ubuntu of different versions (16.04/18.04) is not available for download but has to be compiled by the user himself, please follow [the steps](HowToBuildUbuntu.html) in “build your OS” to do this.
 
 **Note**: Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
 
-![Boot_loader](UbuntuImages.assets\Boot_loader.PNG)
+<img src="UbuntuImages.assets\Boot_loader.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 ## Usernames and passwords
 
@@ -20,7 +20,8 @@ Ubuntu of different versions (16.04/18.04) is not available for download but has
 
 After login, you can see the home screen
 
-![Screenshot 2021-04-07 14-23-45](UbuntuImages.assets\Screenshot_2.png)
+<img src="UbuntuImages.assets\Screenshot_2.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
+
 
 The default home screen of Ubuntu 20.04 of I-Pi SMARC IMX8M Plus appears like above, you can also change the background of your home screen
 
@@ -51,7 +52,7 @@ Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 2.3 GB): [click 
 
 Running glmark2-es2 program to benchmark for GL7000UL with Wayland
 
-![glmark2](UbuntuImages.assets\glmark2.png)
+<img src="UbuntuImages.assets\glmark2.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 ## 
 </div>
