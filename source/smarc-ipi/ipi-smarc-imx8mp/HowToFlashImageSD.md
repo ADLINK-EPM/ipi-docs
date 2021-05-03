@@ -23,7 +23,8 @@ The procedure describes how to flash **Ubuntu/Debian/Yocto/Android** image to th
 
 ![img](https://docs.ipi.wiki/smarc-ipi/ipi-smarc-px30/HowToFlashImage.assets/rufus_1.png)
 
-1. Press the **SELECT** button and browse to the .img file previously copied to your working directory on the development host. Then click **START** and wait for the process to be finished.![win32diskimager_load_image](https://docs.ipi.wiki/smarc-ipi/ipi-smarc-px30/HowToFlashImage.assets/rufus_2.png)
+1. Press the **SELECT** button and browse to the .img file previously copied to your working directory on the development host. Then click **START** and wait for the process to be finish.
+2. d.![win32diskimager_load_image](https://docs.ipi.wiki/smarc-ipi/ipi-smarc-px30/HowToFlashImage.assets/rufus_2.png)
 
 ### Linux Host
 
@@ -38,9 +39,9 @@ The procedure describes how to flash **Ubuntu/Debian/Yocto/Android** image to th
 2. After dd has completed, enter the following command:
 
 
-```python
-$ sync
-```
+  ```python
+  $ sync
+  ```
 **Note**: You can also flash Yocto and Android images using Linux host, but make sure, you type the correct image format in your dd command
 
 ## Flash Yocto or Android Image
@@ -63,13 +64,14 @@ Insert an empty MicroSD Card into the development host and execute the Win32Disk
 
 then, click the **Write** button to start the process.
 
-![win32_1](HowToFlashImageSD.assets\win32_1.PNG)
+
+<img src="HowToFlashImageSD.assets\win32_1.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 \* The tool will prompt to the user that data will be lost. Select "Yes" to continue
 
 - Once done, click **OK** and and it will show the message that **Write successful**
 
-  ![win32_2](HowToFlashImageSD.assets\win32_2.PNG)
+  <img src="HowToFlashImageSD.assets\win32_2.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 - Eject the SD card and insert it into the target board and power on the board to boot up.
 
@@ -77,6 +79,7 @@ then, click the **Write** button to start the process.
 
 Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
 
-![Boot_loader](HowToFlashImageSD.assets\Boot_loader.PNG)
+<img src="HowToFlashImageSD.assets\Boot_loader.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
+
 
 </div> 

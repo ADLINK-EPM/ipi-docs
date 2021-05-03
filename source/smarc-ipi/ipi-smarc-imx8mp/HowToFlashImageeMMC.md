@@ -26,9 +26,9 @@ This document provides the detailed instructions of how to flash the image to eM
 
 -  Then click **Write** and wait for the process to be successful, it might take several minutes.
 
-![win32_1](HowToFlashImageeMMC.assets\win32_1.PNG) 
+<img src="HowToFlashImageeMMC.assets\win32_1.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
-  ![win32_2](HowToFlashImageeMMC.assets\win32_2.PNG)
+  <img src="HowToFlashImageeMMC.assets\win32_2.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 
 - Remove the micro USB OTG device 

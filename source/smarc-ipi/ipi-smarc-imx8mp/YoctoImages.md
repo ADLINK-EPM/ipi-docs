@@ -5,9 +5,9 @@
 Boot the system with the eMMC or SD card placed in the slot located on the carrier, once booted you will see the login screen:
 
 **Note**: Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
+<img src="YoctoImages.assets\Boot_loader.png" alt="logo" style="margin-left: auto; margin-right: auto; display: block;" />
+<img src="YoctoImages.assets\yocto_boot_screen.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
-![Boot_loader](YoctoImages.assets\Boot_loader.png)
-![yocto_boot screen](YoctoImages.assets\yocto_boot_screen.png)
 
 <div class= "bullets">
 
