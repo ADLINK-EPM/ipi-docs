@@ -1,11 +1,57 @@
-title: Ubuntu Images
----
+<img src="UbuntuImages.assets\ubuntu_logo_hex.png" alt="ubuntu_logo_hex" style="zoom:50%;" align="right" />
 
+# Ubuntu Focal Fossa 20.04 LTS Wayland Desktop Environment
 
+<div class= "bullets">
+Boot the system with the SD card placed in the slot located on the carrier, once booted you will see the login screen
 
-**Ubutnu 20.04 LTS image will be ready by the end of April**
+![Screenshot 2021-04-07 13-47-26](UbuntuImages.assets\Screenshot_1.png)
 
+Ubuntu of different versions (16.04/18.04) is not available for download but has to be compiled by the user himself, please follow [the steps](HowToBuildUbuntu.html) in “build your OS” to do this.
 
+**Note**: Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
 
+![Boot_loader](UbuntuImages.assets\Boot_loader.PNG)
 
+## Usernames and passwords
 
+- Two usernames are defined on the system: **root**, **imx8mp**
+- password is **adlink123** for both the usernames
+
+After login, you can see the home screen
+
+![Screenshot 2021-04-07 14-23-45](UbuntuImages.assets\Screenshot_2.png)
+
+The default home screen of Ubuntu 20.04 of I-Pi SMARC IMX8M Plus appears like above, you can also change the background of your home screen
+
+## Binary Image download Link
+
+Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 2.3 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-iMX8MP-2G-iPI-SMARC-Plus-Ubuntu20.04-1v1-20210428)
+
+**Note**:
+
+1. Please refer to [here](HowToFlashImageSD.html) to guide you how to flash image to SD card.
+2. I-Pi SMARC IMX8M Plus board can also work without SD Card by booting the image into emmc. For those who want to boot the image in emmc [click here](HowToFlashImageeMMC.html)
+
+## Supported features & interfaces
+
+- Linux Kernel version: **5.4.70**
+- 2D / 3D Graphics Acceleration which supports Wayland
+- [40 Pin expansion Header](https://www.ipi.wiki/pages/docs) with [Eclipse Mraa library](https://github.com/eclipse/mraa) and [Eclipse UPM library](https://github.com/eclipse/upm) which supports C/C++, Python, JAVA and JavaScript
+- [SEMA 4.0](https://adlink-epm.github.io/sema-doc/#/) (Smart Embedded Management Agent) support the functions such as CPU temperature, voltage monitoring total up time, ... etc.
+- 2D / 3D Graphics Acceleration which supports Wayland
+- Support1080p60 H.265, H.264, VP9, VP8 decoder, 1080p60 H.265, H.264 encoder
+- HDMI output with the resolution up to 1920x1080@60Hz
+- 4 x USB 2.0 ports
+- 2 x 10/100 Gb LAN ports
+- USB OTG Serial Gadget supported (baud rate: 115200)
+- CAN FD Bus interface
+- Audio & speaker
+- Raspberry Pi Camera V2.1 (2 Lanes) - SONY iMX219 sensor ([Datasheet](https://www.raspberrypi.org/documentation/hardware/camera/))
+
+Running glmark2-es2 program to benchmark for GL7000UL with Wayland
+
+![glmark2](UbuntuImages.assets\glmark2.png)
+
+## 
+</div>

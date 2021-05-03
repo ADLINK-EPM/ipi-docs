@@ -30,8 +30,10 @@ smarc-ipi:
     Carrier Introduction: /smarc-ipi/ipi-smarc-imx8mp/CarrierIntroduction.html
     Software Documentation:
     Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/UbuntuImages.html
-    Yocto: /smarc-ipi/ipi-smarc-imx8mp//YoctoImages.html
+    Yocto: /smarc-ipi/ipi-smarc-imx8mp/YoctoImages.html
     Android: /smarc-ipi/ipi-smarc-imx8mp/AndroidImages.html
+    Prepare your SD Card: /smarc-ipi/ipi-smarc-imx8mp/HowToFlashImageSD.html
+    Prepare your eMMC: /smarc-ipi/ipi-smarc-imx8mp/HowToFlashImageeMMC.html
     Software Guideline:
     How to Build Yocto: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildYocto.html
     How to Build Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildUbuntu.html
