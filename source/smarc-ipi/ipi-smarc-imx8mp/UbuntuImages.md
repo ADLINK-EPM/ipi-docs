@@ -11,7 +11,7 @@ Ubuntu of different versions (16.04/18.04) is not available for download but has
 
 **Note**: Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
 
-<img src="UbuntuImages.assets\Boot_loader.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
+<img src="UbuntuImages.assets\Boot_loader.png" alt="boot" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 ## Usernames and passwords
 
