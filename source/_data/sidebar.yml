@@ -29,7 +29,6 @@ smarc-ipi:
     Module Introduction: /smarc-ipi/ipi-smarc-imx8mp/ModuleIntroduction.html
     Carrier Introduction: /smarc-ipi/ipi-smarc-imx8mp/CarrierIntroduction.html
     Software Documentation:
-    Debian: /smarc-ipi/ipi-smarc-imx8mp/DebianImages.html
     Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/UbuntuImages.html
     Yocto: /smarc-ipi/ipi-smarc-imx8mp//YoctoImages.html
     Android: /smarc-ipi/ipi-smarc-imx8mp/AndroidImages.html
@@ -39,3 +38,4 @@ smarc-ipi:
     Examples & How-to: /smarc-ipi/ipi-smarc-imx8mp/ExampleHowto.html
     AI Inferencing on NPU:
     AI Inferencing: /smarc-ipi/ipi-smarc-imx8mp/AIInferencingOnNPU.html
+    
