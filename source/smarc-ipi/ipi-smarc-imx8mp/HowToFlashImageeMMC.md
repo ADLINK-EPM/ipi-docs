@@ -13,7 +13,7 @@ This document provides the detailed instructions of how to flash the image to eM
 
 - Make sure your boot loader switches are in eMMC mode which is 1000
 
-  ![emmc](HowToFlashImageeMMC.assets\emmc.PNG)
+  <img src="HowToFlashImageeMMC.assets\emmc.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 ## Windows Host
 
