@@ -23,8 +23,10 @@ The procedure describes how to flash **Ubuntu/Debian/Yocto/Android** image to th
 
 ![img](https://docs.ipi.wiki/smarc-ipi/ipi-smarc-px30/HowToFlashImage.assets/rufus_1.png)
 
-1. Press the **SELECT** button and browse to the .img file previously copied to your working directory on the development host. Then click **START** and wait for the process to be finish.
-2. d.![win32diskimager_load_image](https://docs.ipi.wiki/smarc-ipi/ipi-smarc-px30/HowToFlashImage.assets/rufus_2.png)
+2. Press the **SELECT** button and browse to the .img file previously copied to your working directory on the development host. Then click **START** and wait for the process to be finished.
+
+
+  ![win32diskimager_load_image](https://docs.ipi.wiki/smarc-ipi/ipi-smarc-px30/HowToFlashImage.assets/rufus_2.png)
 
 ### Linux Host
 
