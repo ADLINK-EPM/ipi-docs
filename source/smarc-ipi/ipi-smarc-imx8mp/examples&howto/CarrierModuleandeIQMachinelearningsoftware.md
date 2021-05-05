@@ -1,3 +1,18 @@
 # Introduction to the Carrier, Module and eIQ Machine learning software
 
-It provides you with the quick go through details of Carrier, Module and eIQ Machine learning software development environment of I-PI SMARC IMX8M Plus.
+It provides you with the quick go through details of Carrier, Module and eIQ Machine learning software development environment of I-Pi SMARC IMX8M Plus.
+
+
+
+
+<center>
+<iframe
+    width="100%"
+    height="480"
+    src="https://www.youtube.com/embed/0a_iCahPTmE"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+</center>

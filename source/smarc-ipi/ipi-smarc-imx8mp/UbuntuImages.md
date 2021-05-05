@@ -34,7 +34,7 @@ Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 2.3 GB): [click 
 **Note**:
 
 1. Please refer to [here](HowToFlashImageSD.html) to guide you how to flash image to SD card.
-2. I-Pi SMARC IMX8M Plus board can also work without SD Card by booting the image into emmc. For those who want to boot the image in eMMC [click here](HowToFlashImageeMMC.html)
+2. I-Pi SMARC IMX8M Plus board can also work without SD Card by booting the image into eMMC. For those who want to boot the image in eMMC [click here](HowToFlashImageeMMC.html)
 
 ## Supported features & interfaces
 
