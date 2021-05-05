@@ -4,19 +4,18 @@
 # Ubuntu Focal Fossa 20.04 LTS Wayland Desktop Environment
 
 <div class= "bullets">
-Boot the system with the SD card placed in the slot located on the carrier, once booted you will see the login screen
+
+Boot the system with the SD card placed in the slot located on the carrier, once booted you will see the login screen.
+
 <img src="UbuntuImages.assets\Screenshot_1.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 
 Ubuntu of different versions (16.04/18.04) is not available for download but has to be compiled by the user himself, please follow [the steps](HowToBuildUbuntu.html) in “build your OS” to do this.
 
 **Note**: Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
+<img src="YoctoImages.assets\Boot_loader.png" alt="logo" style="margin-left: auto; margin-right: auto; display: block;" />
 
-
-
-<img src="UbuntuImages.assets\Boot_loader.png" alt="logo" style="margin-left: auto; margin-right: auto; display: block;" />
-
-## Usernames and passwords
+## Usernames and Passwords
 
 - Two usernames are defined on the system: **root**, **imx8mp**
 - password is **adlink123** for both the usernames
@@ -35,7 +34,7 @@ Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 2.3 GB): [click 
 **Note**:
 
 1. Please refer to [here](HowToFlashImageSD.html) to guide you how to flash image to SD card.
-2. I-Pi SMARC IMX8M Plus board can also work without SD Card by booting the image into emmc. For those who want to boot the image in emmc [click here](HowToFlashImageeMMC.html)
+2. I-Pi SMARC IMX8M Plus board can also work without SD Card by booting the image into emmc. For those who want to boot the image in eMMC [click here](HowToFlashImageeMMC.html)
 
 ## Supported features & interfaces
 
