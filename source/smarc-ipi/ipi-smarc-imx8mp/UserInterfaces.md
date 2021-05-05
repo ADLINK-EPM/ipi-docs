@@ -1,4 +1,4 @@
-#  I-Pi SMARC with SMARC IMX8M Plus CoM
+#  I-Pi SMARC with NXP i.MX 8M Plus SoC
 
 <img src="UserInterfaces.assets/I-Pi-SMARC-IMX8M-Plus-interfaces-B.jpg" alt="SMARC-module-logo_500px" style="zoom:67%; margin-left: auto; margin-right: auto; display: block; " /> 
 <img src="UserInterfaces.assets/I-Pi-SMARC-IMX8M-Plus-interfaces-A.png" alt="SMARC-module-logo_500px" style="zoom:67%; margin-left: auto; margin-right: auto; display: block; " /> 

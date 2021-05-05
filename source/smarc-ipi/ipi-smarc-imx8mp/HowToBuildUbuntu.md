@@ -161,13 +161,13 @@ $ sudo vim $HOME/imx8mp/rootfs/etc/neplan/01-network-manager-all.yaml
 
 18. Add the following content, then save it.
 
-​              # Let NetworkManager manage alldevices on this system
+ #### Let NetworkManager manage alldevices on this system
 
 ​                 **network:**
 
 ​                             **version: 2**
 
-​                             **renderer:NetworkManager**
+​                             **renderer: NetworkManager**
 
 19. Make the Root File System
 

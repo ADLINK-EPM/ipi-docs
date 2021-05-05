@@ -1,5 +1,5 @@
-<img src="UbuntuImages.assets\ubuntu_logo_hex.png" alt="ubuntu_logo_hex" style="zoom:50%;" align="right" />
-
+<img src="UbuntuImages.assets\ubuntu_logo_hex.png" alt="ubuntu_logo_hex" style="zoom:70%;" align="right" />
+<br>
 
 # Ubuntu Focal Fossa 20.04 LTS Wayland Desktop Environment
 
@@ -11,6 +11,8 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 Ubuntu of different versions (16.04/18.04) is not available for download but has to be compiled by the user himself, please follow [the steps](HowToBuildUbuntu.html) in “build your OS” to do this.
 
 **Note**: Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
+
+
 
 <img src="UbuntuImages.assets\Boot_loader.png" alt="logo" style="margin-left: auto; margin-right: auto; display: block;" />
 

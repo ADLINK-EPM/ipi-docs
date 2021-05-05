@@ -5,6 +5,6 @@ title: Android Images
 
 <br>
 
-**Android image will be ready by the end of April**
+**Android image will be ready by the end of May**
 
 

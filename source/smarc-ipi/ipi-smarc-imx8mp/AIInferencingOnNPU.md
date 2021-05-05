@@ -10,7 +10,7 @@ However, what precisely is AI? Possibly a superior question may be what precisel
 
 ## Artificial Intelligence on Modules (AIOM)
 
-AIOM allows quick creation of Edge AI systems. ADLINK technology launched a new range of modules for artificial intelligence (AI) at the edge, allowing inference much faster than traditional methods with I-PI SMARC IMX8M Plus. This AIOM product is created with ADLINK's I-PI SMARC and NXP's eIQ machine learning software which uses Neural processing unit (NPU) for AI inferencing.
+AIOM allows quick creation of Edge AI systems. ADLINK technology launched a new range of modules for artificial intelligence (AI) at the edge, allowing inference much faster than traditional methods with I-Pi SMARC IMX8M Plus. This AIOM product is created with ADLINK's I-Pi SMARC and NXP's eIQ machine learning software which uses Neural processing unit (NPU) for AI inferencing.
 
 The Features include:
 
