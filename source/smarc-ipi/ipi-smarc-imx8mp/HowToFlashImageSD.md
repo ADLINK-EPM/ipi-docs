@@ -13,7 +13,7 @@ The procedure describes how to flash **Ubuntu/Debian/Yocto/Android** image to th
 
 - Download the prebuilt bootable Ubuntu image to the working directory on your development host.
 - In Windows environments, please download [rufus](https://rufus.ie/) to flash the image to the SD Card.
-- In a Linux environment use dd command
+- In a Linux environment use dd command.
 
  **Note:** All files will be erased on the SD Card. The size should be preferable 16 GB or larger. 
 
@@ -44,7 +44,7 @@ The procedure describes how to flash **Ubuntu/Debian/Yocto/Android** image to th
   ```python
   $ sync
   ```
-**Note**: You can also flash Yocto and Android images using Linux host, but make sure, you type the correct image format in your dd command
+**Note**: You can also flash Yocto and Android images using Linux host, but make sure, you type the correct image format in your dd command.
 
 ## Flash Yocto or Android Image
 
@@ -54,32 +54,30 @@ The procedure describes how to flash **Ubuntu/Debian/Yocto/Android** image to th
 
 - In Windows environments, please download the [Win32DiskImager](https://win32diskimager.download/) to flash the image to the SD Card.
 
-  **Note:** All files will be erased on the SD Card. The size should be preferable 16 GB or larger
+  **Note:** All files will be erased on the SD Card. The size should be preferable 16 GB or larger.
 
 ### Windows Host
 
 Insert an empty MicroSD Card into the development host and execute the Win32DiskImager tool.
 
-- The SD card device is automatically detected
-- Choose Image file by clicking on File explorer icon
-- Select the image form the downloaded directory of host computer
-
-then, click the **Write** button to start the process.
+- The SD card device is automatically detected.
+- Choose Image file by clicking on File explorer icon.
+- Select the image form the downloaded directory of host computer, then click the **Write** button to start the process.
 
 
 <img src="HowToFlashImageSD.assets\win32_1.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 \* The tool will prompt to the user that data will be lost. Select "Yes" to continue
 
-- Once done, click **OK** and and it will show the message that **Write successful**
+- Once done, click **OK** and and it will show the message that **Write successful**.
 
   <img src="HowToFlashImageSD.assets\win32_2.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 - Eject the SD card and insert it into the target board and power on the board to boot up.
 
-**Note:** If you want to use Linux development host for flashing **Yocto/Android**, you can use dd command as shown for **Ubuntu/Debian**
+**Note:** If you want to use Linux development host for flashing **Yocto/Android**, you can use dd command as shown for **Ubuntu/Debian**.
 
-Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
+Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot.
 
 <img src="HowToFlashImageSD.assets\Boot_loader.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 

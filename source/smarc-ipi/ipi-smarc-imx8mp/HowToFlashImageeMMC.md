@@ -7,34 +7,30 @@ This document provides the detailed instructions of how to flash the image to eM
 
 ## **Prerequisites**
 
-- Download the prebuilt image of to the working directory on your development host [click here](https://www.ipi.wiki/pages/downloads-imx8mplus)
+- Download the prebuilt image of to the working directory on your development host [click here](https://www.ipi.wiki/pages/downloads-imx8mplus).
 
-- Prepare your target board by connecting power cord and connect the micro USB OTG cable to the host computer
+- Prepare your target board by connecting power cord and connect the micro USB OTG cable to the host computer.
 
-- Make sure your boot loader switches are in eMMC mode which is 1000
+- Make sure your boot loader switches are in eMMC mode which is 1000.
 
   <img src="HowToFlashImageeMMC.assets\emmc.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 ## Windows Host
 
-- Download Win32DiskImager software for flashing image [click here](https://win32diskimager.download/) and install it on your host computer
-
-
-- Open Win32 Disk Imager and it will automatically detect the target board as a device
-
-- Now click file explorer icon and and browse to the image file which you have previously copied to your working directory on the development host and select it
-
--  Then click **Write** and wait for the process to be successful, it might take several minutes.
+- Download Win32DiskImager software for flashing image [click here](https://win32diskimager.download/) and install it on your host computer.
+- Open Win32 Disk Imager and it will automatically detect the target board as a device.
+- Now click file explorer icon and and browse to the image file which you have previously copied to your working directory on the development host and select it.
+- Then click **Write** and wait for the process to be successful, it might take several minutes.
 
 <img src="HowToFlashImageeMMC.assets\win32_1.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
   <img src="HowToFlashImageeMMC.assets\win32_2.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 
-- Remove the micro USB OTG device 
+- Remove the micro USB OTG device.
 
 
--  Connect HDMI cable from Monitor to target board to check the display
+-  Connect HDMI cable from Monitor to target board to check the display.
 
 ## Linux Host
 

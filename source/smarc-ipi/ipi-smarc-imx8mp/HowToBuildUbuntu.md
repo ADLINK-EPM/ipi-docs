@@ -28,11 +28,11 @@ $ sudo apt install build-essential
 
 ## Getting Started
 
-The following are the steps required to generate Ubuntu image for **I-Pi SMARC IMX8M Plus**
+The following are the steps required to generate Ubuntu image for **I-Pi SMARC IMX8M Plus**.
 
-**Step 1**: Create a Ubuntu 20.04 root file system
-**Step 2:** Downloading Yocto IMX8MP image
-**Step 3:** Replacing IMX8MP yocto image rootfs with Ubuntu 20.04 rootfs
+**Step 1**: Create a Ubuntu 20.04 root file system.
+**Step 2:** Downloading Yocto IMX8MP image.
+**Step 3:** Replacing IMX8MP yocto image rootfs with Ubuntu 20.04 rootfs.
 
 **Note:** Remember to download yocto image respective to memory. For example, Download 2G image, if you are building Ubuntu image for 2G memory and vice versa.
 
@@ -60,7 +60,7 @@ $ sudo apt install debootstrap binfmt-support qemu-user-static
 $ sudo debootstrap --arch=arm64 --foreign focal rootfs
 ```
 
-4. Configure the Rootfs, Add host name to /etc/hostname**
+4. Configure the Rootfs, Add host name to /etc/hostname
 
 Here is an example
 
