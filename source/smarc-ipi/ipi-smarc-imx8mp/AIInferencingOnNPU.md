@@ -161,7 +161,7 @@ I-Pi SMARC IMX8M Plus can be used for various applications such as gaming & comp
 
 <center>
 <iframe
-    width="100%"
+    width="700"
     height="480"
     src="https://www.youtube.com/embed/WkdLgFr4_hw"
     frameborder="0"
@@ -173,7 +173,7 @@ I-Pi SMARC IMX8M Plus can be used for various applications such as gaming & comp
 
 <center>
 <iframe
-    width="100%"
+    width="700"
     height="480"
     src="https://www.youtube.com/embed/0a_iCahPTmE"
     frameborder="0"

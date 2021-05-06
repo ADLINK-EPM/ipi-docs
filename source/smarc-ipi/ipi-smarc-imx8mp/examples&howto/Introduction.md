@@ -6,7 +6,7 @@ It provides you with the go through details of I-Pi SMARC IMX8M Plus.
 
 <center>
 <iframe
-    width="100%"
+    width="640"
     height="480"
     src="https://www.youtube.com/embed/WkdLgFr4_hw"
     frameborder="0"
@@ -15,3 +15,4 @@ It provides you with the go through details of I-Pi SMARC IMX8M Plus.
 >
 </iframe>
 </center>
+

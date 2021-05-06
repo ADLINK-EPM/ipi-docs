@@ -7,7 +7,7 @@ It provides you with the quick go through details of Carrier, Module and eIQ Mac
 
 <center>
 <iframe
-    width="100%"
+    width="640"
     height="480"
     src="https://www.youtube.com/embed/0a_iCahPTmE"
     frameborder="0"
