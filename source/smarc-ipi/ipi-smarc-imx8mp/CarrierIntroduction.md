@@ -1,10 +1,10 @@
-I-Pi SMARC Plus with SMARC 2.1 Carrier Board 
+I-Pi SMARC Plus with SMARC 2.1.1 Carrier Board 
 ===
 
 
 Industrial Prototyping Kit for IoT/AIoT with Off-the-Shelf SMARC Computer-on-Module
 
-SMARC 2.1 Carrier Board with M.2 Extension.
+SMARC 2.1.1 Carrier Board with M.2 Extension.
 
 <img src="UserInterfaces.assets/I-Pi-SMARC-IMX8M-Plus-interfaces-B.jpg" alt="img" style="zoom: 67%; margin-left: auto; margin-right: auto; display: block;" />
 
@@ -21,7 +21,7 @@ SMARC 2.1 Carrier Board with M.2 Extension.
 ### **Features**
 
 
-*	Equipped with SMARC 2.1 compliant, specially designed for
+*	Equipped with SMARC 2.1.1 compliant, specially designed for
 industrial embedded applications requiring long life, high MTBF and
 strict revision control
 * Includes everything needed to go live in minutes

@@ -15,7 +15,7 @@ AIOM allows quick creation of Edge AI systems. ADLINK technology launched a new 
 The Features include:
 
 - Optional in-SoC 2.3 TOPS NPU
-- SMARC revision 2.1 compliant
+- SMARC revision 2.1.1 compliant
 - NXP i.MX8M Plus with Quad Cortex-A53
 - LVDS, DSI, HDMI graphic output interfaces
 - Dual CAN bus / USB 2.0 / USB 3.0 interfaces
