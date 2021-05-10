@@ -23,6 +23,7 @@ This demo demonstrates the use of eIQ, a machine learning software development e
 <img src="eIQMLsoftwareDemo/fig1.png" alt="fig1"  />
 </center>
 
+
 ### Object Detection 
 
 Object detection is a computer vision and image processing technique that identifies objects such as people, buildings, or cars in images or videos. The object detection draws bounding boxes around these detected objects, which allows us to see where the identify things are in a given scene. Nowadays, Object detection is a handy application in video surveillance and image retrieval systems.
