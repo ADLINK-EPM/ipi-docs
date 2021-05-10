@@ -30,9 +30,9 @@ Object detection is a computer vision and image processing technique that identi
 
 | Model       | Algorithm      | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms)|
 | --------------- |----------------------- |------------------------- |------------------------ |-------------------------- |
-| Object Detection         | Single Shot detection (SSD)  | Tflite 2.3.0 | 10.25 |41 |
-| Object Detection  | Deep Neural Network (DNN) | OpenCV 4.2.0      | 56 | 123.6 |
-| Object Detection | YOLO v3 | Tflite 2.3.0 | 102 | 225 |
+| Object detection        | Single Shot detection (SSD)  | Tflite 2.3.0 | 10.25 |41 |
+| Object detection | Deep Neural Network (DNN) | OpenCV 4.2.0      | 56 | 123.6 |
+| Object detection | YOLO v3 | Tflite 2.3.0 | 102 | 225 |
 
 </center>
 
@@ -51,7 +51,7 @@ Facial emotion recognition is the process of detecting human emotions from facia
 
 | Model                       | Algorithm | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms) |
 | --------------------------- | --------- | ----------------- | --------------------- | -------------------- |
-| Facial Expression Detection | MobileNet | Tflite 2.3.0      | 35                    | 98                   |
+| Facial Expression detection | MobileNet | Tflite 2.3.0      | 35                    | 98                   |
 
 </center>
 
@@ -68,14 +68,14 @@ Facial emotion recognition is the process of detecting human emotions from facia
 </center>
 
 
-### Image classification
+### Image Classification
 
 Image classification refers to identifying objects and classifying them into categories based on the basic training set of data containing observation with the known class.
 <center>
 
 | Model                | Algorithm | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms) |
 | -------------------- | --------- | ----------------- | --------------------- | -------------------- |
-| Image classification | MobileNet | Tflite 2.3.0      | 5                     | 36                   |
+| Image Classification | MobileNet | Tflite 2.3.0      | 5                     | 36                   |
 
 </center>
 
@@ -117,7 +117,7 @@ The pose is a computer vision task that identifies a person’s pose in an image
 
 | Model              | Algorithm | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms) |
 | ------------------ | --------- | ----------------- | --------------------- | -------------------- |
-| OpenPose Detection | MobileNet | Tflite 2.3.0      | 48                    | 118                  |
+| OpenPose detection | MobileNet | Tflite 2.3.0      | 48                    | 118                  |
 
 </center>
 
