@@ -20,8 +20,7 @@ This demo demonstrates the use of eIQ, a machine learning software development e
 
 
 
-
-<img src="eIQMLsoftwareDemo/fig1.png" />
+<img src="eIQMLsoftwareDemo/fig1copy.PNG" />
 
 
 
