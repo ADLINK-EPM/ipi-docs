@@ -1,6 +1,6 @@
 <div class = "bullets">
 
-# Our Partners
+# The Qt Company
 
 
 </div> 
