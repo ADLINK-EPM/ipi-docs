@@ -184,6 +184,19 @@ I-Pi SMARC IMX8M Plus can be used for various applications such as gaming & comp
 </center>
 
 
+<center>
+<iframe
+    width="700"
+    height="480"
+    src="https://www.youtube.com/embed/0TG4vyJSRY4"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+</center>
+
+
 ## Reference:
 
 [1] Source: User guide https://www.nxp.com/design/software/development-software/eiq-ml-development-environment/eiq-software-for-arm-nn-inference-engine:eIQArmNN
