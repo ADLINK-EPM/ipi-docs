@@ -1,4 +1,4 @@
-I-Pi SMARC Plus with SMARC 2.1.1 Carrier Board 
+LEC-IMX8MP SMARC 2.1.1 module with I-Pi SMARC Plus Carrier Board
 ===
 
 

@@ -6,7 +6,7 @@ This demo demonstrates the use of eIQ, a machine learning software development e
 
 ### Prerequisites
 
-#### Hardware Requirement
+### Hardware Requirement
 
 * I-Pi SMARC IMX8M Plus Development Kit
 * Monitor, Keyboard and Mouse
@@ -20,7 +20,7 @@ This demo demonstrates the use of eIQ, a machine learning software development e
 
 
 <center>
-<img src="eIQMLsoftwareDemo/fig1.PNG" alt="fig1"  />
+<img src="eIQMLsoftwareDemo/fig1.png" alt="fig1"  />
 </center>
 
 ### Object Detection 
