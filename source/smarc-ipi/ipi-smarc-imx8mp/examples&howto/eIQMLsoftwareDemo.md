@@ -18,8 +18,7 @@ This demo demonstrates the use of eIQ, a machine learning software development e
 
 ### What you will see ( AI demos)
 
-
-<img src="eIQMLsoftwareDemo/fig1.PNG" alt="AI race" style="zoom: 100%;" />
+<img src="eIQMLsoftwareDemo/fig1.PNG" />
 
 
 ### Object Detection 
