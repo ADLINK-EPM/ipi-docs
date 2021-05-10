@@ -6,17 +6,21 @@ This demo demonstrates the use of eIQ, a machine learning software development e
 
 ### Prerequisites
 
-#### Hardwares
+#### Hardware Requirement
 
 * I-Pi SMARC IMX8M Plus Development Kit
 * Monitor, Keyboard and Mouse
 * HDMI Display
 * Ethernet
 
-#### Softwares
+### Softwares Requirement
 * Yocto flashed in eMMC
 
 ### What you will see ( AI demos)
+
+
+<img src="eIQMLsoftwareDemo/fig1.png" alt="AI race" style="zoom: 100%;" />
+
 
 ### Object Detection 
 
@@ -26,9 +30,9 @@ Object detection is a computer vision and image processing technique that identi
 
 | Model       | Algorithm      | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms)|
 | --------------- |----------------------- |------------------------- |------------------------ |-------------------------- |
-| Object Detection         | Signle Shot detection (SSD)   | Tlifte 2.3.0 | 10.25 |41 |
+| Object Detection         | Single Shot detection (SSD)  | Tflite 2.3.0 | 10.25 |41 |
 | Object Detection  | Deep Neural Network (DNN) | OpenCV 4.2.0      | 56 | 123.6 |
-| Object Detection | YOLO V3 | Tlifte 2.3.0 | 102 | 225 |
+| Object Detection | YOLO v3 | Tflite 2.3.0 | 102 | 225 |
 
 </center>
 
@@ -47,7 +51,7 @@ Facial emotion recognition is the process of detecting human emotions from facia
 
 | Model                       | Algorithm | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms) |
 | --------------------------- | --------- | ----------------- | --------------------- | -------------------- |
-| Facial Expression Detection | MobileNet | Tlifte 2.3.0      | 35                    | 98                   |
+| Facial Expression Detection | MobileNet | Tflite 2.3.0      | 35                    | 98                   |
 
 </center>
 
@@ -71,7 +75,7 @@ Image classification refers to identifying objects and classifying them into cat
 
 | Model                | Algorithm | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms) |
 | -------------------- | --------- | ----------------- | --------------------- | -------------------- |
-| Image classification | MobileNet | Tlifte 2.3.0      | 5                     | 36                   |
+| Image classification | MobileNet | Tflite 2.3.0      | 5                     | 36                   |
 
 </center>
 
@@ -87,9 +91,9 @@ Fire classification and detection are designed to detect fires in Images or vide
 
 <center>
 
-| Model                         | Algorithm                          | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms) |
-| ----------------------------- | ---------------------------------- | ----------------- | --------------------- | -------------------- |
-| Fire & No Fire Classification | Convolutional Neural Network (CNN) | ArmNN             | 7.6                   | 42.8                 |
+| Model                         | Algorithm                        | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms) |
+| ----------------------------- | -------------------------------- | ----------------- | --------------------- | -------------------- |
+| Fire & No Fire Classification | Convolution Neural Network (CNN) | ArmNN             | 7.6                   | 42.8                 |
 
 </center>
 
@@ -113,7 +117,7 @@ The pose is a computer vision task that identifies a person’s pose in an image
 
 | Model              | Algorithm | Inference Enigine | NPU Inferenceing (ms) | CPU Inferencing (ms) |
 | ------------------ | --------- | ----------------- | --------------------- | -------------------- |
-| OpenPose Detection | MobileNET | TFLITE 2.3.0      | 48                    | 118                  |
+| OpenPose Detection | MobileNet | Tflite 2.3.0      | 48                    | 118                  |
 
 </center>
 
