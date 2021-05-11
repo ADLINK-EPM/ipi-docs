@@ -21,7 +21,7 @@ smarc-ipi:
     How to Install MRAA&UPM: /smarc-ipi/ipi-smarc-px30/HowToInstallMRAAUPM.html
     Examples & How-to: /smarc-ipi/ipi-smarc-px30/ExampleHowto.html
     Software Partners:
-    CGI: /smarc-ipi/ipi-smarc-px30/SoftwarePartners.html
+    CANDERA CGI Studio: /smarc-ipi/ipi-smarc-px30/CANDERACGIStudio.html
   I-Pi SMARC IMX8M Plus:
     Getting Started: 
     UnBoxing: /smarc-ipi/ipi-smarc-imx8mp/UnBoxing.html
@@ -40,8 +40,6 @@ smarc-ipi:
     How to Build Yocto: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildYocto.html
     How to Build Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildUbuntu.html
     Examples & How-to: /smarc-ipi/ipi-smarc-imx8mp/ExampleHowto.html
-    Software Partners:
-    Qt: /smarc-ipi/ipi-smarc-imx8mp/SoftwarePartners.html
     AI Inferencing on NPU:
     AI Inferencing: /smarc-ipi/ipi-smarc-imx8mp/AIInferencingOnNPU.html
 
