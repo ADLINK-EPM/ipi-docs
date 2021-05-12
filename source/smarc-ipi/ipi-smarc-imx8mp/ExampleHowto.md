@@ -1,5 +1,6 @@
 title: Examples & How-to
 ---
+<center>
 
 
 | **Tutorials**                                                |                        **Video link**                        |
@@ -10,6 +11,5 @@ title: Examples & How-to
 
 
 
-
-
+</center>
 
