@@ -19,14 +19,8 @@ Before going to the setup or installation chapter please verify the contents of 
 
 **Watch our unboxing video to find out more:**
 
-<center>
-<iframe
-    width="100%"
-    height="480"
-    src="https://www.youtube.com/embed/JqBQaoybEgU"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-</center>
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe"    width="100%" height="480" src="https://www.youtube.com/embed/JqBQaoybEgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>

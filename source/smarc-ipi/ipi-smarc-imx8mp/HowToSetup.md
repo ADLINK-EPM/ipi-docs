@@ -15,25 +15,11 @@
   <br>
 
 **Watch our video on quick start connections out of the box**:
-<center>
-<iframe
-    width="100%"
-    height="480"
-    src="https://www.youtube.com/embed/Axp5oOVpnDE"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-</center>
 
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe"  width="640" height="480"  src="https://www.youtube.com/embed/Axp5oOVpnDE"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </div>
-<style>
-.bullets ul li {
-    list-style-type: disc;
- }
- .bullets ol li {
-    list-style-type: decimal;
- }
- </style>
+
+</div>

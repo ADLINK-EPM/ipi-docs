@@ -1,6 +1,7 @@
 title: Tutorial 10 - How to enable the air quality monitoring with PM2.5 sensor
 ---
 
+<div class="bullets">
 <div class="contentiframe">
 
 <iframe  class="responsive-iframe"  width="640" height="480" src="https://www.youtube.com/embed/AP7uCtMXtlY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -156,4 +157,4 @@ If you are not the root user, add sudo before the executing commands. The output
 ![Picture1](Tutorial10-HowToEnablePM2.5Sensorspm2.5_sensor.assets/Picture1.jpg)
 
 
-
+</div>

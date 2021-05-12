@@ -4,6 +4,12 @@
 
 This demo demonstrates the use of eIQ, a machine learning software development environment from NXP that uses ML algorithms. The eIQ software is integrated into our I-Pi SMARC IMX8M Plus with yocto based linux image for interesting AI application.
 
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe"  width="640" height="480" src="https://www.youtube.com/embed/0TG4vyJSRY4"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
+
 ### Prerequisites
 
 ### Hardware Requirement

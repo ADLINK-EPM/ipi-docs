@@ -9,15 +9,9 @@
 
 
 **Watch our video to find out more:**
-<center>
-<iframe
-    width="100%"
-    height="480"
-    src="https://www.youtube.com/embed/luzU_IYuRQI" 
-    frameborder="0" 
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-</center>
 
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe"    width="100%" height="480" src="https://www.youtube.com/embed/luzU_IYuRQI"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
