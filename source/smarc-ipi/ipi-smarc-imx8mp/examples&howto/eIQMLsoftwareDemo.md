@@ -135,7 +135,7 @@ The pose is a computer vision task that identifies a person’s pose in an image
 
 
 <center>
-<img src="eIQMLsoftwareDemo/fig6.PNG" alt="fig6"  />
+<img src="eIQMLsoftwareDemo/figsix.png" alt="fig6"  />
 </center>
 
 
