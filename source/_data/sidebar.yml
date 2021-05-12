@@ -40,8 +40,6 @@ smarc-ipi:
     How to Build Yocto: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildYocto.html
     How to Build Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildUbuntu.html
     Examples & How-to: /smarc-ipi/ipi-smarc-imx8mp/ExampleHowto.html
-    Software Partners:
-    Qt: /smarc-ipi/ipi-smarc-imx8mp/SoftwarePartners.html
     AI Inferencing on NPU:
     AI Inferencing: /smarc-ipi/ipi-smarc-imx8mp/AIInferencingOnNPU.html
 
