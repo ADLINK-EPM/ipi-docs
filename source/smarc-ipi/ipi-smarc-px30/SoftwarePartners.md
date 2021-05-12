@@ -1,7 +1,0 @@
-<div class = "bullets">
-
-# 
-
-
-</div> 
-
