@@ -2,7 +2,12 @@ title: Tutorial 5 - How to flash Debian/Ubuntu image
 ---
 
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/qunkNOpYzGQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe" src="https://www.youtube.com/embed/qunkNOpYzGQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
+
 
 1. Please refer to the following links to describe the detailed steps how to flash an Debian/Ubuntu image including u-boot, Linux kernel and file system to the SD Card.
    * [Under Windows Development Host](../HowToFlashImage.html#Windows-Host)

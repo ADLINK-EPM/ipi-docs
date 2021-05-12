@@ -1,7 +1,11 @@
 title: Tutorial 6 - How to enable Raspberry Pi Camera Module
 ---
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/UduSlKTSDMs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe" width="640" height="480" src="https://www.youtube.com/embed/UduSlKTSDMs"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 
 It describes how to connect the Raspberry Pi Camera Module V2.1 to I-Pi SMARC PX30 development kit and also teaches how to take pictures, record video, and apply image effects
 

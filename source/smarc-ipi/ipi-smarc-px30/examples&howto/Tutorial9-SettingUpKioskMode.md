@@ -1,7 +1,12 @@
 title: Tutorial 9 - How to Setting up a Kiosk mode  
 ---
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/-rNoug-hJ-4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe"  width="640" height="480" src="https://www.youtube.com/embed/-rNoug-hJ-4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 
 ## Kiosk mode
 

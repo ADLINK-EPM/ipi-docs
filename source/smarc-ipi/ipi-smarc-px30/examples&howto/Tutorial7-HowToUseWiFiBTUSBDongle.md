@@ -1,14 +1,21 @@
 title: Tutorial 7 - How to use WiFi/BT USB Dongle
 ---
 
-It shows how to set up WiFi connection with I-Pi SMARC PX30 IoT embedded development kit.
-<iframe width="640" height="480" src="https://www.youtube.com/embed/XLbOluKs3sI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe"  width="640" height="480" src="https://www.youtube.com/embed/XLbOluKs3sI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 
 <br>	
 
 
 It shows how to set up BT connection with I-Pi SMARC PX30 IoT embedded development kit.
-<iframe width="640" height="480" src="https://www.youtube.com/embed/t5f7eZRb6dY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe"  width="640" height="480" src="https://www.youtube.com/embed/t5f7eZRb6dY"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 
 <br>
 

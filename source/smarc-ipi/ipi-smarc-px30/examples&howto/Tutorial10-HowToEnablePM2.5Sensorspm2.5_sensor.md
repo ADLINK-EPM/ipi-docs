@@ -1,7 +1,11 @@
 title: Tutorial 10 - How to enable the air quality monitoring with PM2.5 sensor
 ---
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/AP7uCtMXtlY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe"  width="640" height="480" src="https://www.youtube.com/embed/AP7uCtMXtlY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 
 It describes about how to use PM2.5 sensor for monitoring air quality on I-Pi
 

@@ -2,8 +2,11 @@ title: Tutorial 8 - how to enable Serial Communication
 ---
 
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/jE-Ddj8tc8I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="contentiframe">
 
+<iframe  class="responsive-iframe"  width="640" height="480" src="https://www.youtube.com/embed/jE-Ddj8tc8I"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 
 
 ### Using Ubutnu Hevelopment Host:
