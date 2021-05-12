@@ -113,9 +113,14 @@ The above histogram clearly shows the difference of NPU and CPU inferencing on I
 
 </center>
 
+
+
+
+
 <center>
-<img src="AIInferencingOnNPU.assets/fig6.PNG"   /> 
+<img src="AIInferencingOnNPU.assets/figsix.png"   /> 
 </center>
+
 
 
 
