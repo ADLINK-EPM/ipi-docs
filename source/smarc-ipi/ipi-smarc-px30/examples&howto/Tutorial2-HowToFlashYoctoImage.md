@@ -1,7 +1,11 @@
 title: Tutorial 2 - How to Flash Yocto image after your build
 ---
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/-Vq7yLV5thQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="content">
+
+<iframe  class="responsive-iframe"  src="https://www.youtube.com/embed/-Vq7yLV5thQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 
 1. [The detailed steps](../HowToFlashImage.html#Windows-Host-1) how to flash an Yocto image including u-boot, Linux kernel and file system to the SD Card.
 
@@ -21,4 +25,25 @@ Boot the system with the SD card placed in the slot located on the carrier, once
 - password is **adlink123**
 
 
- 
+
+
+
+<style>
+.content {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>

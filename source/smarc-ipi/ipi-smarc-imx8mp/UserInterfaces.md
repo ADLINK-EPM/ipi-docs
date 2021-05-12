@@ -152,7 +152,7 @@
 
 | Interface          | Setting |
 | ------------------ | ---------- |
-| Can Bus             | on = Terminanated 120 Ohm          |
+| Can Bus             | on = Terminated 120 Ohm          |
 | LVDS Backlight | 1 ~ 3 = 5V \| 3 ~ 5 = 3,3V    |
 | SPI1 Voltage | 1 ~ 2  1,8V  \| 2 ~ 3 3,3V |
 | USB Mux     | 36 ~ 38 = M.2  \| 38 ~ 40 = USB |
