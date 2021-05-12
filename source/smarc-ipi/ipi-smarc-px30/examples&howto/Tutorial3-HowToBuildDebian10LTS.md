@@ -5,7 +5,8 @@ It provides you the quick go through how to build & install Debian 10 on LEC-PX3
 
 [This document](../HowToBuildDebian.html) provides the detailed steps for the building. 
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/wMQP4skQDsE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="contentiframe">
 
+<iframe  class="responsive-iframe"  src="https://www.youtube.com/embed/wMQP4skQDsE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
+</div>
