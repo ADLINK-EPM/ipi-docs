@@ -18,8 +18,10 @@ CANDERA CGI Studio addresses diverse markets, such as marine, motorbikes, home a
 
  
 
-**More information coming soon….**
+<div class="contentiframe">
 
- 
+<iframe  class="responsive-iframe"  width="640" height="480"  src="https://www.youtube.com/embed/1i3TeBBn5nM"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 
  
