@@ -29,7 +29,7 @@ The default home screen of Ubuntu 20.04 of I-Pi SMARC IMX8M Plus appears like ab
 
 ## Binary Image download Link
 
-Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 2.3 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-iMX8MP_2G_iPI-SMARC_Plus_Ubuntu20.04_1v3_20210519)
+Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.86 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-iMX8MP_2G_iPI-SMARC_Plus_Ubuntu20.04_1v3_20210519.zip)
 
 **Note**:
 
