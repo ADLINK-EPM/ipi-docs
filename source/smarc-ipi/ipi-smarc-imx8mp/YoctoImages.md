@@ -12,7 +12,7 @@ Boot the system with the eMMC or SD card placed in the slot located on the carri
 <div class= "bullets">
 
 ### Binary Image Download Link
-* Yocto Zeus with Wayland Desktop + MRAA/UPM (size of compressed file: 298 MB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Yocto/imx-image-full-lec-imx8mp-weston_2G_1v2_20210428.zip)
+* Yocto Zeus with Wayland Desktop + MRAA/UPM (size of compressed file: 298 MB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Yocto/imx-image-full-lec-imx8mp-weston_2G_1v3_20210519.zip)
 * All Versions: [click here]()
 
 **Note:**
