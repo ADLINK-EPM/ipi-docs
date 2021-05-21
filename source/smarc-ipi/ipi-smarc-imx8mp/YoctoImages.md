@@ -16,10 +16,9 @@ Boot the system with the eMMC or SD card placed in the slot located on the carri
 * All Versions: [click here]()
 
 **Note:**
-    1. Auto-login is enabled and no need to enter password.     
-
-2. Please refer [here ](HowToFlashImageSD.html) to guide you how to flash image to SD card.
-3. Please refer [here](HowToFlashImageeMMC.html) to guide you how to flash image to eMMC.
+1. Auto-login is enabled and no need to enter password.     
+2.  Please refer [here ](HowToFlashImageSD.html) to guide you how to flash image to SD card.
+3.   Please refer [here](HowToFlashImageeMMC.html) to guide you how to flash image to eMMC.
 
 <br/>
 
