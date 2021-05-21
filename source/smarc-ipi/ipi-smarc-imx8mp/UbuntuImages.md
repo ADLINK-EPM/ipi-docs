@@ -25,11 +25,11 @@ After login, you can see the home screen
 <img src="UbuntuImages.assets\Screenshot_2.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 
-The default home screen of Ubuntu 20.04 of I-Pi SMARC IMX8M Plus appears like above, you can also change the background of your home screen
+The default home screen of Ubuntu 20.04 of I-Pi SMARC IMX8M Plus appears like above, you can also change the background of your home screen.
 
 ## Binary Image download Link
 
-Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.86 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-iMX8MP_2G_iPI-SMARC_Plus_Ubuntu20.04_1v3_20210519.zip)
+Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.6 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-iMX8MP-2G-iPI-SMARC-Plus-Ubuntu20_04-1V2-20210521.zip)
 
 **Note**:
 

@@ -18,9 +18,9 @@ CANDERA CGI Studio addresses diverse markets, such as marine, motorbikes, home a
 
  
 
-#### Candera CGI Studio demo on I-Pi SMARC PX30 devkit
+### Candera CGI Studio demo on I-Pi SMARC PX30 devkit
 
-You can download the image along with Android and CGI Demo [here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-PX30/Images/SoftwarePartner/PX30_Android_CGI_demo.zip)
+You can download the image along with Android and CGI Demo [here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-PX30/Images/SoftwarePartner/PX30_Android_CGI_demo.zip).
 
 <div class="contentiframe">
 
