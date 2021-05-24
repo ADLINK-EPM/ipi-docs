@@ -40,7 +40,7 @@ Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.6 GB): [click 
 
 - Linux Kernel version: **5.4.70**
 - 2D / 3D Graphics Acceleration which supports Wayland
-- [40 Pin expansion Header](https://www.ipi.wiki/pages/docs) with [Eclipse Mraa library](https://github.com/eclipse/mraa) and [Eclipse UPM library](https://github.com/eclipse/upm) which supports C/C++, Python, JAVA and JavaScript
+- [40 Pin expansion Header](UserInterfaces.html)  with [Eclipse Mraa library](https://github.com/eclipse/mraa) and [Eclipse UPM library](https://github.com/eclipse/upm) which supports C/C++, Python, JAVA and JavaScript
 - [SEMA 4.0](https://adlink-epm.github.io/sema-doc/#/) (Smart Embedded Management Agent) support the functions such as CPU temperature, voltage monitoring total up time, ... etc.
 - 2D / 3D Graphics Acceleration which supports Wayland
 - Support1080p60 H.265, H.264, VP9, VP8 decoder, 1080p60 H.265, H.264 encoder

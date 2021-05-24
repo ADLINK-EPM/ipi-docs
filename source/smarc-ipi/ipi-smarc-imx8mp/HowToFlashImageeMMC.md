@@ -7,9 +7,9 @@ This document provides the detailed instructions of how to flash the image to eM
 
 ## **Prerequisites**
 
-- Download the prebuilt image of to the working directory on your development host [click here](https://www.ipi.wiki/pages/downloads-imx8mplus).
+- Download the prebuilt image to the working directory on your development host [click here](https://www.ipi.wiki/pages/downloads-imx8mplus).
 
-- Prepare your target board by connecting power cord and connect the micro USB OTG cable to the host computer.
+- Prepare your target board by connecting the power cord and the micro USB OTG cable to the host computer.
 
 - Make sure your boot loader switches are in eMMC mode which is 1000.
 
@@ -36,7 +36,7 @@ This document provides the detailed instructions of how to flash the image to eM
 
 1. Copy the prebuilt bootable image to the working directory on your development host. Connect the target board to the host and enter the following command to flash the image.
 
-   **Warning**: Make sure your target board is recognized as storage device in development host. You can check the disk partitions to see if there are other device names, for example /dev/sdb or /dev/sdc. you can also check device name with dmesg in terminal. Data loss may result if written to the wrong device or in the worst case you kill your hosts OS.
+   **Warning**: Make sure your target board is recognized as storage device in development host. You can check the disk partitions to see if there are other device names, for example /dev/sdb or /dev/sdc. you can also check device name with ``` dmesg ``` in terminal. Data loss may result if written to the wrong device or in the worst case you kill your hosts OS.
 
    ```python
    $ sudo dd if=[your image] of=/dev/sd[x]
