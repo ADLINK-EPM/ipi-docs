@@ -7,6 +7,7 @@ title: Examples & How-to
 
 | **Tutorials**                                                |                        **Video link**                        |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
+| **[Candera CGI Studio demo on I-Pi SMARC PX30 devkit](examples&howto/CanderaCGIStudioDemo.html)** | <iframe width="150" height="100" src="https://www.youtube.com/embed/1i3TeBBn5nM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> |
 | **[How to Enable the air quality monitoring with PM2.5 sensor](examples&howto/Tutorial10-HowToEnablePM2.5Sensorspm2.5_sensor.html)** | <iframe width="150" height="100" src="https://www.youtube.com/embed/AP7uCtMXtlY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> |
 | **[How to Set up a Kiosk mode](examples&howto/Tutorial9-SettingUpKioskMode.html)** | <iframe width="150" height="100" src="https://www.youtube.com/embed/-rNoug-hJ-4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> |
 | **[How to Enable Serial Communication](examples&howto/Tutorial8-howToEnableSerialCommunication.html)** | <iframe width="150" height="100" src="https://www.youtube.com/embed/jE-Ddj8tc8I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> |

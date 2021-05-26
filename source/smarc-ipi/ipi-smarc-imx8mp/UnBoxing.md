@@ -1,6 +1,6 @@
 ## What's inside the box
 
-Before going to the setup or installation chapter please verify the contents of your package. Following items should be part of the kit. The standard set of I-Pi SMARC includes the following items:
+Before going to the setup or installation chapter, please verify the contents of your package. The following items should be part of the kit. The standard set of I-Pi SMARC includes the following items:
 
 <div class= "bullets">
 

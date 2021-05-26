@@ -2,7 +2,7 @@
 
 # Yocto Zeus with Wayland Desktop Environment
 
-Boot the system with the eMMC or SD card placed in the slot located on the carrier, once booted you will see the login screen:
+Boot the system with the eMMC or SD card placed in the slot located on the carrier. Once booted, you will see the login screen:
 
 **Note**: Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
 <img src="YoctoImages.assets\Boot_loader.png" alt="logo" style="margin-left: auto; margin-right: auto; display: block;" />
@@ -31,8 +31,8 @@ Boot the system with the eMMC or SD card placed in the slot located on the carri
 
 **Note:**
 1. Auto-login is enabled and no need to enter password.     
-2.  Please refer [here ](HowToFlashImageSD.html) to guide you how to flash image to SD card.
-3.   Please refer [here](HowToFlashImageeMMC.html) to guide you how to flash image to eMMC.
+2.  Please refer [here ](HowToFlashImageSD.html) to guide you on how to flash image to SD card.
+3.   Please refer [here](HowToFlashImageeMMC.html) to guide you on how to flash image to eMMC.
 
 <br/>
 
