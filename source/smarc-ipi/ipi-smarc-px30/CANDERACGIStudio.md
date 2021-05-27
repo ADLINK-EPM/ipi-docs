@@ -79,8 +79,11 @@ Refer this link for I-Pi Connections
 This can be done by drag and drop utilizing Explorer or by the **adb** command line tool on power shell
 
 Refer the below image.
+
 <center>
+
 <img src="CanderaCGIStudio.assets/Homa1.png" alt="image-20201102150712556"  />
+
 </center>
 
 #### Installing App from Zip package
@@ -93,14 +96,19 @@ If you just got a ZIP package containing the APK (android application), asset fi
 -         AssetLibCff.bin
 
  You can do this by utilizing explorer by drag and drop, or much more convenient and faster by utilizing adb command on powershell
+
 <center>
+
 <img src="CanderaCGIStudio.assets/Homa2.png" alt="image-20201102150712556" />
+
 </center>
 
 **Note:** If you experience an error like shown in following trial, try the **-t** switch 
 
 <center>
+
 <img src="CanderaCGIStudio.assets/Homa3.png" alt="image-20201102150712556"  />
+
 </center>
 
 **Explanation:**
