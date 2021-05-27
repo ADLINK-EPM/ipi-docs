@@ -81,7 +81,7 @@ This can be done by drag and drop utilizing Explorer or by the **adb** command l
 Refer the below image.
 
 
-<img src="CanderaCGIStudio.assets/Homa1.png" alt="image-20201102150712556"  />
+<img src="CanderaCGIStudio.assets/Homa1.png" alt="image-20201102150712556" style="zoom:90%;" />
 
 
 #### Installing App from Zip package
