@@ -48,7 +48,7 @@ Android Support documentation for I-Pi SMARC PX30 [click here](AndroidImages.htm
 
 ### **Software Requirement**
 
-Android as desired OS [click here]((AndroidImages.html))
+Android as desired OS [click here](https://www.ipi.wiki/pages/downloads-imx8mplus) .
 
 Refer this link for flashing the Image in to micro SD card
 
