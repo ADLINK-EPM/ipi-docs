@@ -5,6 +5,17 @@
 
 <div class= "bullets">
 
+## Binary Image download Link
+
+Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.6 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-iMX8MP-2G-iPI-SMARC-Plus-Ubuntu20_04-1V2-20210521.zip)
+
+**Note**:
+
+1. Please refer to [here](HowToFlashImageSD.html) to guide you on how to flash image to SD card.
+2. I-Pi SMARC IMX8M Plus board can also work without SD Card by booting the image into eMMC. For those who want to boot the image in eMMC [click here](HowToFlashImageeMMC.html).
+
+
+
 Boot the system with the SD card placed in the slot located on the carrier. Once booted, you will see the login screen.
 
 <img src="UbuntuImages.assets\Screenshot_1.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
@@ -27,14 +38,6 @@ After login, you can see the home screen
 
 The default home screen of Ubuntu 20.04 of I-Pi SMARC IMX8M Plus appears like above. You can also change the background of your home screen.
 
-## Binary Image download Link
-
-Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.6 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-iMX8MP-2G-iPI-SMARC-Plus-Ubuntu20_04-1V2-20210521.zip)
-
-**Note**:
-
-1. Please refer to [here](HowToFlashImageSD.html) to guide you on how to flash image to SD card.
-2. I-Pi SMARC IMX8M Plus board can also work without SD Card by booting the image into eMMC. For those who want to boot the image in eMMC [click here](HowToFlashImageeMMC.html)
 
 ## Supported features & interfaces
 
