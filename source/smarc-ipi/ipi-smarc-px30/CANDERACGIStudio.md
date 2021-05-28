@@ -81,7 +81,7 @@ This can be done by drag and drop utilizing Explorer or by the **adb** command l
 Refer the below image.
 
 
-<img src="CanderaCGIStudio.assets/Homaa.png" alt="homaa" style="zoom:90%;"/>
+<img src="CanderaCGIStudio.assets/Homaa.png" alt="homaa" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 
 #### Installing App from Zip package
@@ -95,12 +95,19 @@ If you just got a ZIP package containing the APK (android application), asset fi
 
  You can do this by utilizing explorer by drag and drop, or much more convenient and faster by utilizing adb command on powershell
 
-<img src="CanderaCGIStudio.assets/Homab.png" alt="homab"/>
+
+
+<img src="CanderaCGIStudio.assets/Homab.png" alt="homa2" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
+
+
 
 
 **Note:** If you experience an error like shown in following trial, try the **-t** switch 
 
-<img src="CanderaCGIStudio.assets/Homac.png" alt="homac"/>
+
+
+<img src="CanderaCGIStudio.assets/Homac.png" alt="homa3" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
+
 
 
 
