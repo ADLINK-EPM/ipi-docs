@@ -80,7 +80,6 @@ This can be done by drag and drop utilizing Explorer or by the **adb** command l
 
 Refer the below image.
 
-
 <img src="CanderaCGIStudio.assets/Homaa.png" alt="homaa" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 
