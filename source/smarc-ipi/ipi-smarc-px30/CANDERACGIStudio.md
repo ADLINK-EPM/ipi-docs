@@ -83,6 +83,11 @@ Refer the below image.
 <img src="CanderaCGIStudio.assets/Homaa.png" alt="homaa" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 
+check
+
+<img src="CanderaCGIStudio.assets/homac copy.png" alt="homaa" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
+
+
 #### Installing App from Zip package
 
 If you just got a ZIP package containing the APK (android application), asset file and config file, you don’t need any of the steps described before. You only need to install following files:
