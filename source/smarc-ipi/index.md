@@ -26,7 +26,7 @@ By comparison, ADLINK’s I-Pi SMARC follows industry standard **ECN** (engineer
 
 There are, of course,  many existing industrial platforms available, but they each have different register maps and hardware interfaces when it comes to talking to things like general-purpose input/output (GPIO) pins, pulse-width modulator (PWM) functions, analog to digital converters (ADCs), digital to analog converters (DACs), and communication functions like I2C, SPI, UART, etc. This makes it difficult to take the software and drivers developed for an Arduino or RPi and migrate them to an industrial platform.
 
-The [MRAA](https://github.com/eclipse/mraa) (pronounced “em rah”) library on the I-Pu SMARC simplifies the logic for connecting to different sensor pins. In addition to allowing users to program in C++, Python, JavaScript, or Java, MRAA is portable, thereby allowing the same code to be run on multiple platforms.
+The [MRAA](https://github.com/eclipse/mraa) (pronounced “em rah”) library on the I-Pu SMARC simplifies the logic for connecting to different sensor pins. In addition to allowing users to program in C++, Python, JavaScript, Java,  MRAA is portable, thereby allowing the same code to be run on multiple platforms.
 
 
 
