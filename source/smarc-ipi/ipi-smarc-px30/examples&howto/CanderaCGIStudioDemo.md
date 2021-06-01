@@ -50,7 +50,7 @@ This can be done by drag and drop utilizing Explorer or by the **adb** command l
 
 Refer the below image.
 
-<img src="Tutorial11-CanderaCGIStudioDemo.assets /Homa1.png" alt="image-20201102150712556"  />
+<img src="Tutorial11-CanderaCGIStudioDemo.assets/Homaa.png" alt="image-20201102150712556"  />
 
 #### Installing App from Zip package
 
@@ -63,11 +63,11 @@ If you just got a ZIP package containing the APK (android application), asset fi
 
  You can do this by utilizing explorer by drag and drop, or much more convenient and faster by utilizing adb command on powershell
 
-<img src="Tutorial11-CanderaCGIStudioDemo.assets /Homa2.png" alt="image-20201102150712556"  />
+<img src="Tutorial11-CanderaCGIStudioDemo.assets/Homab.png" alt="image-20201102150712556"  />
 
 **Note:** If you experience an error like shown in following trial, try the **-t** switch 
 
-<img src="Tutorial11-CanderaCGIStudioDemo.assets /Homa3.png" alt="image-20201102150712556"  />
+<img src="Tutorial11-CanderaCGIStudioDemo.assets/Homac.png" alt="image-20201102150712556"  />
 
 **Explanation:**
 
