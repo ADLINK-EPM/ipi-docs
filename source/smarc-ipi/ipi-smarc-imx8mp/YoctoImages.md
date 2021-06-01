@@ -5,7 +5,7 @@
 <div class= "bullets">
 
 ### Binary Image Download Link
-* Yocto Zeus with Wayland Desktop + MRAA/UPM (size of compressed file: 1.47 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-iMX8MP-2G-IPi-SMARC-PLUS_Yocto-zeus_v1.3_20210519.zip)
+* Yocto Zeus with Wayland Desktop + MRAA/UPM (size of compressed file: 1.47 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-IMX8MP-2G-IPi-SMARC-PLUS_Yocto-zeus_v1.3_20210519.zip)
 * All Versions: <a data-toggle="collapse" data-target="#demo" href="#">click here</a>
   
     <div id="demo" class="iframe-container collapse" style="z-index: 100; background-color: white;"><iframe class="download-area" src="https://hq0epm0west0us0storage.z22.web.core.windows.net/?prefix=public/SMARC/LEC-iMX8MP/Images/Yocto/&amp;pageLevel=0" scrolling="no">
@@ -32,7 +32,7 @@
 Boot the system with the eMMC or SD card placed in the slot located on the carrier. Once booted, you will see the login screen:
 
 **Note**: Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
-<img src="YoctoImages.assets\Boot_loader.png" alt="logo" style="margin-left: auto; margin-right: auto; display: block;" />
+<img src="UbuntuImages.assets\Boot_loadert.png" alt="logo" style="margin-left: auto; margin-right: auto; display: block;" />
 <img src="YoctoImages.assets\yocto_boot_screen.png" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 

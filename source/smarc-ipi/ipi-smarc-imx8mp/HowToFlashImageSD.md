@@ -78,7 +78,7 @@ Insert an empty MicroSD Card into the development host and execute the Win32Disk
 
 Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot.
 
-<img src="HowToFlashImageSD.assets\Boot_loader.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
+<img src="HowToFlashImageSD.assets\Boot_loadert.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 
 
 </div> 

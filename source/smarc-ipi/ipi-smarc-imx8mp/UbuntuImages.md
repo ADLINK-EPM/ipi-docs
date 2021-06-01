@@ -7,7 +7,7 @@
 
 ## Binary Image download Link
 
-Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.6 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-iMX8MP-2G-iPI-SMARC-Plus-Ubuntu20_04-1V2-20210521.zip)
+Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.6 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-IMX8MP-2G-IPi-SMARC-PLUS-Ubuntu20_04-1v2-20210521.zip)
 
 **Note**:
 
@@ -24,7 +24,7 @@ Boot the system with the SD card placed in the slot located on the carrier. Once
 Ubuntu of different versions (16.04/18.04) is not available for download but has to be compiled by the user himself. Please follow [the steps](HowToBuildUbuntu.html) in “build your OS” to do this.
 
 **Note**: Make sure the boot loader on the carrier board is set according to the SD card or eMMC as you boot
-<img src="YoctoImages.assets\Boot_loader.png" alt="logo" style="margin-left: auto; margin-right: auto; display: block;" />
+<img src="UbuntuImages.assets\Boot_loadert.png" alt="logo" style="margin-left: auto; margin-right: auto; display: block;" />
 
 ## Usernames and Passwords
 
