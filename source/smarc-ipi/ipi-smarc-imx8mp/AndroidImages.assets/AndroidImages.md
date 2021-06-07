@@ -7,7 +7,7 @@ title: Android Images
 
 <div class = "bullets">
 
-## Android 11
+## Android 10
 
 Boot up the system from the SD card, once booted you will see the following screen:
 
@@ -19,10 +19,11 @@ Boot up the system from the SD card, once booted you will see the following scre
 
 ### Binary Image download Link
 
-* The latest Image of Android 11 image: (size of compressed file: 688 MB):[click here](https://hq0epm0west0us0storage.z22.web.core.windows.net/public/SMARC/LEC-iMX8MP/Images/Android/LEC-IMX8MP-4G-IPi-SMARC-PLUS_Android11_1v0_20210503.zip).
+* The latest Image of Android 10 64 bit: (size of compressed file: 599 MB):[click here](https://hq0epm0west0us0storage.z22.web.core.windows.net/public/SMARC/LEC-PX30/Images/Android/LEC-PX30-IPI-SMARC_Android10_64bit_sdcard_2v8_20201221.zip)
+* The latest Image of Android 10 32 bit (size of compressed file: 463 MB): [click here](https://hq0epm0west0us0storage.z22.web.core.windows.net/public/SMARC/LEC-PX30/Images/Android/LEC-PX30-IPI-SMARC_Android10_32bit_sdcard_2v6_20200916.zip)
 * All Versions: <a data-toggle="collapse" data-target="#demo" href="#">click here</a>
 
-<div id="demo" class="iframe-container collapse" style="z-index: 100; background-color: white;"><iframe class="download-area" src="https://hq0epm0west0us0storage.z22.web.core.windows.net/?prefix=public/SMARC/LEC-iMX8MP/Images/Android/&amp;pageLevel=0" scrolling="no">
+<div id="demo" class="iframe-container collapse" style="z-index: 100; background-color: white;"><iframe class="download-area" src="https://hq0epm0west0us0storage.z22.web.core.windows.net/?prefix=public/SMARC/LEC-PX30/Images/Android/&amp;pageLevel=0" scrolling="no">
   	</iframe></div>
 <style>
 .iframe-container {
@@ -38,8 +39,8 @@ Boot up the system from the SD card, once booted you will see the following scre
 
 **Note**:
 
- 1. Please find  [here](HowToFlashImageSD.html#Flash-Yocto-or-Android-Image) a description how to flash an image to the SD card
- 2. Note that the SMARC boot device selector on the carrier does not work in conjunction with LEC-IMX8MP due to the design of [PX30 SOC boot order](PX30BootFlow.html) (need to change)
+ 1. Please find  [here](HowToFlashImage.html#Flash-a-Yocto-or-Android-Image) a description how to flash an image to the SD card
+ 2. Note that the SMARC boot device selector on the carrier does not work in conjunction with LEC-PX30 due to the design of [PX30 SOC boot order](PX30BootFlow.html)
 
 <br>
 
@@ -73,3 +74,11 @@ Boot up the system from the SD card, once booted you will see the following scre
 
 </div>
 
+<style>
+.bullets ul li {
+    list-style-type: disc;
+ }
+ .bullets ol li {
+    list-style-type: decimal;
+ }
+</style>
