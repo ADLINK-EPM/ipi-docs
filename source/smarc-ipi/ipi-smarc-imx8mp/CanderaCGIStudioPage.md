@@ -22,7 +22,7 @@ CANDERA CGI Studio addresses diverse markets, such as marine, motorbikes, home a
 
 ### Candera CGI Studio demo on I-Pi SMARC IMX8M Plus devkit
 
-You can download the image along with Android and CGI Demo [here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/LEC-iMX8MP/Images/SoftwarePartner/LEC-IMX8MP_2G_IPi_SMARC_Plus_Android_CGI_demo.zip).
+You can download the image along with Android and CGI Demo [here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/SoftwarePartner/LEC-IMX8MP_2G_IPi_SMARC_Plus_Android_CGI_demo.zip).
 
 
 Below, we will describe a quick guide for deploying HOMA Demo for Android on I-Pi SMARC IMX8M Plus
@@ -45,9 +45,7 @@ Android as desired OS [click here](https://www.ipi.wiki/pages/downloads-imx8mplu
 
 Refer this link for flashing the Image in to micro SD card
 
- (How to Flash Yocto /Android into the SD Card)
-
-https://www.youtube.com/watch?v=-Vq7yLV5thQ&t=11s
+ [How to Flash Yocto / Android into the SD Card](HowToFlashImageSD.html)
 
 **Note**: You can also download the Image along with Android and CGI Demo [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/SoftwarePartner/LEC-IMX8MP_2G_IPi_SMARC_Plus_Android_CGI_demo.zip).
 
