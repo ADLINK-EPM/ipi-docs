@@ -6,7 +6,7 @@ This procedure describes a quick guide for deploying HOMA Demo for Android on I-
 
 For requirements and how to set up your environment and appropriate utilities, refer to following document:
 
-Android Support documentation for I-Pi SMARC PX30 [click here](AndroidImages).
+Android Support documentation for I-Pi SMARC PX30 [click here](AndroidImages.html)
 
 ## Prerequisites
 
