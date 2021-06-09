@@ -1,18 +1,18 @@
-# Candera CGI Studio demo on I-Pi SMARC PX30 devkit
+# Candera CGI Studio demo on I-Pi SMARC IMX8M Plus devkit
 
 <div class="bullets">
 
-This procedure describes a quick guide for deploying HOMA Demo for Android on I-Pi SMARC PX30
+This procedure describes a quick guide for deploying HOMA Demo for Android 11 on I-Pi SMARC IMX8M Plus
 
 For requirements and how to set up your environment and appropriate utilities, refer to following document:
 
-Android Support documentation for I-Pi SMARC PX30 [click here](AndroidImages).
+Android Support documentation for I-Pi SMARC IMX8M Plus [click here](AndroidImages.html)
 
 ## Prerequisites
 
 ### **Hardware Requirement:**
 
-1. I-Pi SMARC PX30 Development Kit
+1. I-Pi SMARC IMX8M Plus Development Kit
 2. Monitor, Keyboard and Mouse
 3. HDMI Display
 
@@ -26,9 +26,9 @@ Refer this link for flashing the Image in to micro SD card
 
 https://www.youtube.com/watch?v=-Vq7yLV5thQ&t=11s
 
-**Note**: You can also download the Image along with Android and CGI Demo [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-PX30/Images/SoftwarePartner/PX30_Android_CGI_demo.zip).
+**Note**: You can also download the Image along with Android and CGI Demo [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/SoftwarePartner/LEC-IMX8MP_2G_IPi_SMARC_Plus_Android_CGI_demo.zip).
 
-#### Step 1: I-Pi SMARC PX30 Connections
+#### Step 1: I-Pi SMARC IMX8M Plus Connections
 
 Refer this link for I-Pi Connections
 <https://www.youtube.com/watch?v=luzU_IYuRQI>
@@ -37,7 +37,7 @@ Refer this link for I-Pi Connections
 
 - Deploying on an Android device simply happens by clicking on APP icon on the home screen
 
-- You need to connect I-Pi SMARC PX30 with android image by MICRO USB OTG cable to your host computer
+- You need to connect I-Pi SMARC IMX8M Plus  with android image by MICRO USB OTG cable to your host computer
 
 - To get the application working, two files must be deployed on the target device locally which means, the files must be placed in rootfs of the device
 
