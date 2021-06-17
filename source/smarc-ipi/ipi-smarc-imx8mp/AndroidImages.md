@@ -44,7 +44,7 @@ Boot up the system by flashing Image from the SD card/eMMC, you will see the fol
 
 *  Linux kernel version 5.4.70.
 *  Supports H.265, H.264, MPEG-4, VP8, and VC-1 video codec with up to 1080p60fps.
-*  2D / 3D Graphics Acceleration [with Arm Mali-G31 GPU](https://developer.arm.com/ip-products/graphics-and-multimedia/mali-gpus/mali-g31-gpu) .
+*  2D / 3D Graphics Acceleration which supports Wayland.
 *  4x USB 2.0 ports.
 *  2x 10/100 Mb LAN ports.
 *  HDMI output with resolution 1920x1080@60Hz.
